@@ -27,8 +27,6 @@ Accessible browser-based colouring PWA.
 ### [Aetheria: Hyperstrike — Web](https://github.com/brysonandtiff-ops/-Aetheria-Hyperstrike-Web)
 Browser game prototype.
 
-### [React + Vite + Cloudflare Workers Template](https://github.com/brysonandtiff-ops/vite-react-template)
-Public starter template for React, TypeScript, Vite, Hono, and Cloudflare Workers.
 
 ## Engineering approach
 
