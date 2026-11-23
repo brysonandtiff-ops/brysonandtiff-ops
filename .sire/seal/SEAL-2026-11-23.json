@@ -1,0 +1,24 @@
+{
+  "schema": "sire.repo-seal/v1",
+  "repository": "brysonandtiff-ops",
+  "branch_at_seal": "ccr-77a5355a-qzyfqc",
+  "sealed_source_head": "793d2ec379626109e8393ef66e3f438b84e3612c",
+  "sealed_source_tree": "9560de8e3a7900c3a8434feaba15950361ba606b",
+  "file_count": 1,
+  "sha256_merkle_root": "c08c3d840d5857aece634a59aca89db37bfb9037b5b5bedd11f670ae693720df",
+  "verdict_scope": "INTEGRITY_ONLY \u2014 binds exact source bytes and the test results observed on them; NOT release certification",
+  "release": "HOLD",
+  "sealed_at_utc": "2026-11-23T16:07:25Z",
+  "runner": "Claude Code cloud container (Linux x86_64); not an independent reviewer",
+  "runs": [
+    {
+      "name": "profile README",
+      "result": "NO_BUILD",
+      "detail": "repository is a single Markdown profile README; nothing to compile or test"
+    }
+  ],
+  "files_sha256": {
+    "README.md": "f2c109a1c1cf744eb22fd3fa2f85755f2c0bc64da5b376bb92a1c6924ecad695"
+  },
+  "verify": "git checkout <sealed_source_head>; recompute sha256 of every git ls-files path and compare with files_sha256"
+}
