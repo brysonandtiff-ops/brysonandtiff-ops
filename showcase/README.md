@@ -2,13 +2,13 @@
 
 Curated folder of **latest-checkout UI photos and verified videos** across Bryson's public software and game repos, for audit and portfolio review.
 
-- Built (UTC): `2026-11-24T10:44:45.052155+00:00`
+- Built (UTC): `2026-11-24T11:18:11.730063+00:00`
 - Projects indexed: **24**
-- With photos: **20**
-- With videos: **5**
-- No visual proof yet: **4**
-- Total photos copied: **102**
-- Total videos copied: **8**
+- With photos: **23**
+- With videos: **8**
+- No visual proof yet: **1**
+- Total photos copied: **112**
+- Total videos copied: **11**
 
 ## How to use
 
@@ -30,7 +30,7 @@ Curated folder of **latest-checkout UI photos and verified videos** across Bryso
 - **[DentalStudio.OS](projects/dentalstudioos/)** — `HAS_PHOTOS_AND_VIDEOS` — `3418d7f2` on `main` — 7 photos / 4 videos
 - **[AIProfex.OS](projects/aiprofexos/)** — `HAS_PHOTOS_ONLY` — `deaf99c` on `main` — 7 photos / 0 videos
 - **[Midnight (Velvet Haven / Veilmorph)](projects/midnight-velvet-haven---veilmorph/)** — `HAS_PHOTOS_ONLY` — `383d5b78` on `main` — 8 photos / 0 videos
-- **[PerthSaver](projects/perthsaver/)** — `HAS_PHOTOS_ONLY` — `2a3fad8` on `main` — 1 photos / 0 videos
+- **[PerthSaver](projects/perthsaver/)** — `HAS_PHOTOS_AND_VIDEOS` — `2a3fad8` on `main` — 3 photos / 1 videos
 - **[OmniWord](projects/omniword/)** — `HAS_PHOTOS_AND_VIDEOS` — `8dc9c9a` on `buildforge/omniword-cloudflare-20260906-231623` — 2 photos / 1 videos
 - **[AnimeSteam.OS](projects/animesteamos/)** — `HAS_PHOTOS_AND_VIDEOS` — `c2e6bea` on `main` — 2 photos / 1 videos
 - **[Moonwake](projects/moonwake/)** — `HAS_PHOTOS_AND_VIDEOS` — `1641594` on `main` — 2 photos / 1 videos
@@ -47,6 +47,6 @@ Curated folder of **latest-checkout UI photos and verified videos** across Bryso
 - **[Gloam & Gear](projects/gloam--gear/)** — `HAS_PHOTOS_ONLY` — `dad605a` on `main` — 6 photos / 0 videos
 - **[Hushkin: Rumor Bloom](projects/hushkin-rumor-bloom/)** — `HAS_PHOTOS_ONLY` — `23be7d3` on `master` — 5 photos / 0 videos
 - **[The Great Green Valley](projects/the-great-green-valley/)** — `HAS_PHOTOS_ONLY` — `b36f268` on `main` — 6 photos / 0 videos
-- **[OCEANIS](projects/oceanis/)** — `NO_VISUAL_PROOF` — `2d7a859` on `main` — 0 photos / 0 videos
-- **[VENOMWARD](projects/venomward/)** — `NO_VISUAL_PROOF` — `4ec5124` on `sire/build-venomward` — 0 photos / 0 videos
-- **[DOOMBOAT: Last Rights](projects/doomboat-last-rights/)** — `NO_VISUAL_PROOF` — `6251707` on `main` — 0 photos / 0 videos
+- **[OCEANIS](projects/oceanis/)** — `HAS_PHOTOS_ONLY` — `2d7a859` on `main` — 3 photos / 0 videos
+- **[VENOMWARD](projects/venomward/)** — `HAS_PHOTOS_AND_VIDEOS` — `4ec5124` on `sire/build-venomward` — 4 photos / 1 videos
+- **[DOOMBOAT: Last Rights](projects/doomboat-last-rights/)** — `HAS_PHOTOS_AND_VIDEOS` — `6251707` on `main` — 1 photos / 1 videos

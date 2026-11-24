@@ -1,6 +1,6 @@
 {
   "title": "Bryson \u2014 Git Profile Software Showcase & Visual Audit",
-  "built_at_utc": "2026-11-24T10:44:45.052155+00:00",
+  "built_at_utc": "2026-11-24T11:18:11.730063+00:00",
   "rules": [
     "Media is copied from existing repo evidence only \u2014 nothing invented.",
     "Each file records source path, source HEAD SHA, and content SHA-256.",
@@ -9,11 +9,11 @@
   ],
   "counts": {
     "projects": 24,
-    "with_photos": 20,
-    "with_videos": 5,
-    "no_visual_proof": 4,
-    "total_photos": 102,
-    "total_videos": 8
+    "with_photos": 23,
+    "with_videos": 8,
+    "no_visual_proof": 1,
+    "total_photos": 112,
+    "total_videos": 11
   },
   "projects": [
     {
@@ -420,9 +420,9 @@
       "sha_short": "2a3fad8",
       "commit_date": "2026-08-09T01:13:32+08:00",
       "commit_subject": "fix: add serverless resilience fallback to community posts endpoint",
-      "proof_status": "HAS_PHOTOS_ONLY",
-      "photo_count": 1,
-      "video_count": 0,
+      "proof_status": "HAS_PHOTOS_AND_VIDEOS",
+      "photo_count": 3,
+      "video_count": 1,
       "photos": [
         {
           "status": "COPIED",
@@ -432,9 +432,43 @@
           "bytes": 63530,
           "sha256": "8316d82252d5be8b8d242fc26f9a1cf99556a546fcf33eaee26893937f6ebd59",
           "ext": ".jpg"
+        },
+        {
+          "status": "COPIED",
+          "kind": "fresh_photo",
+          "source_rel": "fresh-runtime/01-home.png",
+          "showcase_rel": "projects/perthsaver/fresh-runtime/01-home.png",
+          "bytes": 449055,
+          "sha256": "3c72ef216bb99c0c7d84e54cf0661642c426e08ec5c887a654fe69c06537981a",
+          "ext": ".png",
+          "provenance": "FRESH_RUNTIME_CAPTURE",
+          "note": "Playwright Chromium fresh capture of local Vite client against checkout HEAD."
+        },
+        {
+          "status": "COPIED",
+          "kind": "fresh_photo",
+          "source_rel": "fresh-runtime/02-after-cta.png",
+          "showcase_rel": "projects/perthsaver/fresh-runtime/02-after-cta.png",
+          "bytes": 1184461,
+          "sha256": "144dc17951fd4d5f3f5f155240f6407113ccc6958a1621f922a7b93d57bcc736",
+          "ext": ".png",
+          "provenance": "FRESH_RUNTIME_CAPTURE",
+          "note": "Playwright Chromium fresh capture of local Vite client against checkout HEAD."
         }
       ],
-      "videos": [],
+      "videos": [
+        {
+          "status": "COPIED",
+          "kind": "fresh_video",
+          "source_rel": "fresh-runtime/ui-loop.webm",
+          "showcase_rel": "projects/perthsaver/fresh-runtime/ui-loop.webm",
+          "bytes": 984934,
+          "sha256": "ae9fabf8003612651acf7098d9e47fe22b3dd743884d30e7004f1b71532260a8",
+          "ext": ".webm",
+          "provenance": "FRESH_RUNTIME_CAPTURE",
+          "note": "Playwright Chromium fresh capture of local Vite client against checkout HEAD."
+        }
+      ],
       "folder": "projects/perthsaver"
     },
     {
@@ -1477,12 +1511,47 @@
       "sha_short": "2d7a859",
       "commit_date": "2026-11-23T02:47:44+00:00",
       "commit_subject": "Restore 40 original verified OCEANIS GLB blockouts",
-      "proof_status": "NO_VISUAL_PROOF",
-      "photo_count": 0,
+      "proof_status": "HAS_PHOTOS_ONLY",
+      "photo_count": 3,
       "video_count": 0,
-      "photos": [],
+      "photos": [
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "design-visuals/01-design-home.png",
+          "showcase_rel": "projects/oceanis/design-visuals/01-design-home.png",
+          "bytes": 468393,
+          "sha256": "081d99a9d948bd330fd92d1cdf7e3ae53e3f05038bd45b44e4be6c4efe0a422c",
+          "ext": ".png",
+          "provenance": "DESIGN_HTML_CAPTURE",
+          "note": "No playable Godot UI on main yet. Design home screenshot + SIRE blueprint PNGs for audit context only."
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "design-visuals/10398_blueprint_A.png",
+          "showcase_rel": "projects/oceanis/design-visuals/10398_blueprint_A.png",
+          "bytes": 3365425,
+          "sha256": "8db1bc667090d2d509e058507d12db9a946a08027d512b16e4bfe71fd68a64f5",
+          "ext": ".png",
+          "provenance": "SIRE_BLUEPRINT_HISTORICAL",
+          "note": "From SIRE docs/oceanis/blueprints \u2014 planning artifact, not gameplay UI."
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "design-visuals/10399_blueprint_B.png",
+          "showcase_rel": "projects/oceanis/design-visuals/10399_blueprint_B.png",
+          "bytes": 3402103,
+          "sha256": "a565711481f96e99165d2422628d9a8cc8dfc4e646a606eb53a79e6dc200d1e4",
+          "ext": ".png",
+          "provenance": "SIRE_BLUEPRINT_HISTORICAL",
+          "note": "From SIRE docs/oceanis/blueprints \u2014 planning artifact, not gameplay UI."
+        }
+      ],
       "videos": [],
-      "folder": "projects/oceanis"
+      "folder": "projects/oceanis",
+      "proof_notes": "DESIGN/BLUEPRINT ONLY \u2014 no Godot gameplay UI on main yet"
     },
     {
       "repo": "venomward",
@@ -1497,11 +1566,68 @@
       "sha_short": "4ec5124",
       "commit_date": "2026-11-24T14:26:03+08:00",
       "commit_subject": "Merge pull request #4 from brysonandtiff-ops/ccr-fbde1fa1-gj1fgw",
-      "proof_status": "NO_VISUAL_PROOF",
-      "photo_count": 0,
-      "video_count": 0,
-      "photos": [],
-      "videos": [],
+      "proof_status": "HAS_PHOTOS_AND_VIDEOS",
+      "photo_count": 4,
+      "video_count": 1,
+      "photos": [
+        {
+          "status": "COPIED",
+          "kind": "fresh_photo",
+          "source_rel": "fresh-runtime/venomward-real-scene-still.png",
+          "showcase_rel": "projects/venomward/fresh-runtime/venomward-real-scene-still.png",
+          "bytes": 124562,
+          "sha256": "89f0134dbe39d6741b02fe424324f46a8c60b88c274913c2694a27db8f16f147",
+          "ext": ".png",
+          "provenance": "GODOT_ENGINE_WINDOW_CAPTURE",
+          "note": "Official tools/capture_real_godot_video.sh on Godot 4.7.2. Window capture only \u2014 NOT phone/release certified."
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "cross-repo-historical/venom-v16-mobile-390x844.png",
+          "showcase_rel": "projects/venomward/cross-repo-historical/venom-v16-mobile-390x844.png",
+          "bytes": 60024,
+          "sha256": "8569ce9cbde64a3ab4522dc4588f537d080cf8f6bb7965c0ea24323aa08fa19e",
+          "ext": ".png",
+          "provenance": "SIRE_ARTIFACT_HISTORICAL",
+          "note": "Copied from SIRE artifacts/sire-web evidence; historical UI, not exact venomward HEAD certification."
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "cross-repo-historical/venom-v16-desktop-1440x1000.png",
+          "showcase_rel": "projects/venomward/cross-repo-historical/venom-v16-desktop-1440x1000.png",
+          "bytes": 129551,
+          "sha256": "cb255add2e3fb9df69bd572d52b2d5aacfe6b6721f584ad1de6a47a3545d9756",
+          "ext": ".png",
+          "provenance": "SIRE_ARTIFACT_HISTORICAL",
+          "note": "Copied from SIRE artifacts/sire-web evidence; historical UI, not exact venomward HEAD certification."
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "cross-repo-historical/venom-v15-desktop.png",
+          "showcase_rel": "projects/venomward/cross-repo-historical/venom-v15-desktop.png",
+          "bytes": 136365,
+          "sha256": "78e4a912373bdf353e0b06dba5f5ea0f825f732df0dbf2defae3ce3bbe139a84",
+          "ext": ".png",
+          "provenance": "SIRE_ARTIFACT_HISTORICAL",
+          "note": "Copied from SIRE artifacts/sire-web evidence; historical UI, not exact venomward HEAD certification."
+        }
+      ],
+      "videos": [
+        {
+          "status": "COPIED",
+          "kind": "fresh_video",
+          "source_rel": "fresh-runtime/venomward-real-scene.mp4",
+          "showcase_rel": "projects/venomward/fresh-runtime/venomward-real-scene.mp4",
+          "bytes": 45238,
+          "sha256": "2a0bd4da40b96f96d6ea74b542ca140c4fa31974f539121b8121e3b23ab8d00a",
+          "ext": ".mp4",
+          "provenance": "GODOT_ENGINE_WINDOW_CAPTURE",
+          "note": "Official tools/capture_real_godot_video.sh on Godot 4.7.2. Window capture only \u2014 NOT phone/release certified."
+        }
+      ],
       "folder": "projects/venomward"
     },
     {
@@ -1517,11 +1643,35 @@
       "sha_short": "6251707",
       "commit_date": "2026-11-24T14:26:00+08:00",
       "commit_subject": "Merge pull request #3 from brysonandtiff-ops/ccr-fbde1fa1-gj1fgw",
-      "proof_status": "NO_VISUAL_PROOF",
-      "photo_count": 0,
-      "video_count": 0,
-      "photos": [],
-      "videos": [],
+      "proof_status": "HAS_PHOTOS_AND_VIDEOS",
+      "photo_count": 1,
+      "video_count": 1,
+      "photos": [
+        {
+          "status": "COPIED",
+          "kind": "fresh_photo",
+          "source_rel": "fresh-runtime/doomboat-real-scene-still.png",
+          "showcase_rel": "projects/doomboat-last-rights/fresh-runtime/doomboat-real-scene-still.png",
+          "bytes": 326419,
+          "sha256": "6a0e8eccc4fa2ab59c6ddb3af6936474331abca71a50f6b981434559be3a20b9",
+          "ext": ".png",
+          "provenance": "GODOT_ENGINE_WINDOW_CAPTURE",
+          "note": "Xvfb + Godot 4.7.2 window grab after engine-gate PASS. Not phone/LAN/audio certified."
+        }
+      ],
+      "videos": [
+        {
+          "status": "COPIED",
+          "kind": "fresh_video",
+          "source_rel": "fresh-runtime/doomboat-real-scene.mp4",
+          "showcase_rel": "projects/doomboat-last-rights/fresh-runtime/doomboat-real-scene.mp4",
+          "bytes": 289567,
+          "sha256": "d8be68f8e148970dd1b17aa4fe8849e8cd094c1dbd2a18b762de5d7beb38250c",
+          "ext": ".mp4",
+          "provenance": "GODOT_ENGINE_WINDOW_CAPTURE",
+          "note": "Xvfb + Godot 4.7.2 window grab after engine-gate PASS. Not phone/LAN/audio certified."
+        }
+      ],
       "folder": "projects/doomboat-last-rights"
     }
   ],
@@ -1535,6 +1685,18 @@
       "animesteamos",
       "aethelgard",
       "aetheria-hyperstrike-web"
+    ]
+  },
+  "gap_fill": {
+    "captured_at_utc": "2026-11-24T11:18:11.730063+00:00",
+    "filled": [
+      "venomward",
+      "DOOMBOAT-LAST-RIGHTS",
+      "OCEANIS",
+      "PERTHSAVER"
+    ],
+    "still_open": [
+      "aethelgard-unity"
     ]
   }
 }

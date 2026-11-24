@@ -1,6 +1,6 @@
 # Visual Audit Board
 
-Generated: `2026-11-24T10:44:45.052155+00:00`
+Generated: `2026-11-24T11:18:11.730063+00:00`
 
 | Project | Category | Branch | HEAD | Commit date | Proof | Photos | Videos | Folder |
 |---|---|---|---|---|---|---:|---:|---|
@@ -8,7 +8,7 @@ Generated: `2026-11-24T10:44:45.052155+00:00`
 | [DentalStudio.OS](projects/dentalstudioos/) | software | `main` | `3418d7f2` | 2026-10-07 | `HAS_PHOTOS_AND_VIDEOS` | 7 | 4 | [projects/dentalstudioos](projects/dentalstudioos/) |
 | [AIProfex.OS](projects/aiprofexos/) | software | `main` | `deaf99c` | 2026-08-08 | `HAS_PHOTOS_ONLY` | 7 | 0 | [projects/aiprofexos](projects/aiprofexos/) |
 | [Midnight (Velvet Haven / Veilmorph)](projects/midnight-velvet-haven---veilmorph/) | software | `main` | `383d5b78` | 2026-11-24 | `HAS_PHOTOS_ONLY` | 8 | 0 | [projects/midnight-velvet-haven---veilmorph](projects/midnight-velvet-haven---veilmorph/) |
-| [PerthSaver](projects/perthsaver/) | software | `main` | `2a3fad8` | 2026-08-09 | `HAS_PHOTOS_ONLY` | 1 | 0 | [projects/perthsaver](projects/perthsaver/) |
+| [PerthSaver](projects/perthsaver/) | software | `main` | `2a3fad8` | 2026-08-09 | `HAS_PHOTOS_AND_VIDEOS` | 3 | 1 | [projects/perthsaver](projects/perthsaver/) |
 | [OmniWord](projects/omniword/) | software | `buildforge/omniword-cloudflare-20260906-231623` | `8dc9c9a` | 2026-09-07 | `HAS_PHOTOS_AND_VIDEOS` | 2 | 1 | [projects/omniword](projects/omniword/) |
 | [AnimeSteam.OS](projects/animesteamos/) | software | `main` | `c2e6bea` | 2026-07-17 | `HAS_PHOTOS_AND_VIDEOS` | 2 | 1 | [projects/animesteamos](projects/animesteamos/) |
 | [Moonwake](projects/moonwake/) | software | `main` | `1641594` | 2026-10-09 | `HAS_PHOTOS_AND_VIDEOS` | 2 | 1 | [projects/moonwake](projects/moonwake/) |
@@ -25,16 +25,19 @@ Generated: `2026-11-24T10:44:45.052155+00:00`
 | [Gloam & Gear](projects/gloam--gear/) | game | `main` | `dad605a` | 2026-11-19 | `HAS_PHOTOS_ONLY` | 6 | 0 | [projects/gloam--gear](projects/gloam--gear/) |
 | [Hushkin: Rumor Bloom](projects/hushkin-rumor-bloom/) | game | `master` | `23be7d3` | 2026-09-26 | `HAS_PHOTOS_ONLY` | 5 | 0 | [projects/hushkin-rumor-bloom](projects/hushkin-rumor-bloom/) |
 | [The Great Green Valley](projects/the-great-green-valley/) | game | `main` | `b36f268` | 2026-10-28 | `HAS_PHOTOS_ONLY` | 6 | 0 | [projects/the-great-green-valley](projects/the-great-green-valley/) |
-| [OCEANIS](projects/oceanis/) | game | `main` | `2d7a859` | 2026-11-23 | `NO_VISUAL_PROOF` | 0 | 0 | [projects/oceanis](projects/oceanis/) |
-| [VENOMWARD](projects/venomward/) | game | `sire/build-venomward` | `4ec5124` | 2026-11-24 | `NO_VISUAL_PROOF` | 0 | 0 | [projects/venomward](projects/venomward/) |
-| [DOOMBOAT: Last Rights](projects/doomboat-last-rights/) | game | `main` | `6251707` | 2026-11-24 | `NO_VISUAL_PROOF` | 0 | 0 | [projects/doomboat-last-rights](projects/doomboat-last-rights/) |
+| [OCEANIS](projects/oceanis/) | game | `main` | `2d7a859` | 2026-11-23 | `HAS_PHOTOS_ONLY` | 3 | 0 | [projects/oceanis](projects/oceanis/) |
+| [VENOMWARD](projects/venomward/) | game | `sire/build-venomward` | `4ec5124` | 2026-11-24 | `HAS_PHOTOS_AND_VIDEOS` | 4 | 1 | [projects/venomward](projects/venomward/) |
+| [DOOMBOAT: Last Rights](projects/doomboat-last-rights/) | game | `main` | `6251707` | 2026-11-24 | `HAS_PHOTOS_AND_VIDEOS` | 1 | 1 | [projects/doomboat-last-rights](projects/doomboat-last-rights/) |
 
 ## Priority gaps (no visual proof on this checkout)
 
-- **Aethelgard Unity** (`aethelgard-unity` @ `cf58f2c`) — Unity port stub / companion (no visual proof found).
-- **OCEANIS** (`OCEANIS` @ `2d7a859`) — KRAIT Godot ocean game (no committed UI screenshots in this checkout).
-- **VENOMWARD** (`venomward` @ `4ec5124`) — KRAIT Godot game on sire/build-venomward (no committed UI screenshots).
-- **DOOMBOAT: Last Rights** (`DOOMBOAT-LAST-RIGHTS` @ `6251707`) — KRAIT Godot game (no committed UI screenshots in this checkout).
+- **Aethelgard Unity** (`aethelgard-unity`) — docs-only Unity port plan; no UI to capture yet.
+
+## Honest caveats (photos present, not full gameplay proof)
+
+- **OCEANIS** — design home + SIRE blueprints only; no playable Godot UI on `main` yet.
+- **VENOMWARD / DOOMBOAT** — real Godot 4.7.2 window captures + receipts; **not** phone/release certified.
+- Fresh Playwright captures are audit-useful runtime shots, not LAW phone acceptance.
 
 ## Video coverage note
 

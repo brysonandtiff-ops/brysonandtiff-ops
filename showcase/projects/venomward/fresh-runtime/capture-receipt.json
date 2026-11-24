@@ -1,0 +1,27 @@
+{
+  "schema": "sire.venomward.scene-capture/v1",
+  "exact_source_sha": "4ec51240d7c6ff513222231f7f1314824013c109",
+  "godot_version": "4.7.2.stable.official.ed1daf0bf",
+  "engine_sha256": "8d106cbe6144c2dc7e881d61d2429c1a8a76e6b22ef48bd5e48dcf934953f71e",
+  "display_server": "Xvfb",
+  "audio_driver": "Dummy",
+  "audio_recorded": false,
+  "video": {
+    "path": "venomward-real-scene.mp4",
+    "sha256": "2a0bd4da40b96f96d6ea74b542ca140c4fa31974f539121b8121e3b23ab8d00a"
+  },
+  "still": {
+    "path": "venomward-real-scene-still.png",
+    "sha256": "89f0134dbe39d6741b02fe424324f46a8c60b88c274913c2694a27db8f16f147"
+  },
+  "engine_test_logs": "engine/",
+  "verified_scope": "ACTUAL_ENGINE_WINDOW_CAPTURE",
+  "not_verified": [
+    "physical controls",
+    "full playthrough",
+    "Android Fold",
+    "Alpha save compatibility",
+    "independent review"
+  ],
+  "release": "BLOCKED_PENDING_PHONE_AND_REVIEW"
+}
