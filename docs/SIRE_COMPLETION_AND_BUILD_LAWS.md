@@ -69,3 +69,29 @@ Authorised cloud agents may run **24/7** on feature branches for **docs/index** 
 - Do not use this repo’s autonomy loop to ship product code.
 - Product merge/release stays **phone-gated** in the owning product repository.
 - Never invent **GREEN**. `UNKNOWN` = fail-closed.
+
+---
+
+## Fleet status — 2026-11-24 (Wave B)
+
+Canonical control-plane record (S.I.R.E. repo):  
+`docs/SYSTEM_UPGRADES_WAVE_B_2026-11-24.md` · `docs/ECOSYSTEM_COMPLETION_WAVE_2026-11-24.md` · `docs/FLEET_STATUS_WAVE_B_2026-11-24.md`
+
+**Phone-merged this wave (exact main SHAs):**
+- SIRE Wave B `123c7aa9` (PR #844) — doctor honesty, local verify allowlist, Connections Git Stop, UI soft-lie cleanup
+- Aethelgard orphan XP boot fix `ce21b08` (PR #151)
+- Fossil.Os autocert `push: main` `fd04200` (PR #98)
+- The-Wrong-Refl3ction autocert + unreal `push: main` `c534f91` (PR #35)
+- OCEANIS read-only blockout integrity on every main push `cb433cb` (PR #10)
+
+**Still HOLD / NOT_VERIFIED (fleet-wide):**
+- LAW-105 fresh screenshots and full-clip videos on exact HEAD
+- Horizon game-engine release (no engine source in SIRE)
+- KRAIT verified trained model / live inference
+- True 24×7 Auto (cloud doctor READY + phone-gated install)
+- ChatGPT MCP gateway deploy + OAuth secrets
+- Mission dispatch execution (local verify allowlist ≠ mission POST)
+
+**This repo — status note:**
+- Org meta / index only. Keep fleet pointers accurate; no parallel app trees. Wave B phone merges recorded in SIRE fleet status doc.
+
