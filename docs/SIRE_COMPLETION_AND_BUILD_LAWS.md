@@ -1,5 +1,7 @@
 # brysonandtiff-ops — Completion Plan & Build Laws
 
+**Honesty:** North-star language is a plan. Release stays **HOLD** until gates + phone proof on exact SHA. Docs alone never certify GREEN.
+
 This repository follows the S.I.R.E. canonical eight-step build laws:
 
 **FIND → PLAN → BUILD → TEST → SHOW → HARDEN → PROVE → FINISH**
