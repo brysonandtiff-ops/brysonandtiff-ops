@@ -39,3 +39,11 @@ Certificate III in 2D/3D Digital Design & Animation, with hands-on work spanning
 ---
 
 **Current focus:** building better software and game-development workflows that make implementation, testing, evidence, recovery, and release state easier to understand.
+
+---
+
+## S.I.R.E. completion & build laws
+
+This repository follows S.I.R.E. Canonical Step Building Laws (**FIND → PLAN → BUILD → TEST → SHOW → HARDEN → PROVE → FINISH**).
+
+See [`docs/SIRE_COMPLETION_AND_BUILD_LAWS.md`](docs/SIRE_COMPLETION_AND_BUILD_LAWS.md) for this product’s completion plan, Dev GO / lightning / AXIOM operator pointers, and honest HOLD vocabulary. Do not treat clean git as product certification.
