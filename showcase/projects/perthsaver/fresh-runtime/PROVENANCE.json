@@ -1,0 +1,7 @@
+{
+  "kind": "FRESH_RUNTIME_CAPTURE",
+  "captured_at_utc": "2026-11-24T11:18:11.730063+00:00",
+  "source_sha": "2a3fad8bcb1e9ba4ad76ed534c608502d9ecb10a",
+  "tool": "Playwright Chromium",
+  "url": "http://127.0.0.1:5190/"
+}

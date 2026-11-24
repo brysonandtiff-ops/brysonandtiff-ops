@@ -1,0 +1,8 @@
+{
+  "kind": "FRESH_RUNTIME_CAPTURE",
+  "captured_at_utc": "2026-11-24T10:44:45.052155+00:00",
+  "note": "Playwright Chromium capture on this cloud VM against local checkout HEAD. Not a phone-acceptance or release seal.",
+  "source_sha": "18c0e4017e48d56d23750aea887964db3281758e",
+  "source_branch": "main",
+  "viewport": "1440x900 (stills) / 1280x720 (videos)"
+}

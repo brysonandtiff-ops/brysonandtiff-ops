@@ -1,0 +1,17 @@
+{
+  "schema": "profile-showcase.doomboat.scene-capture/v1",
+  "exact_source_sha": "6251707dc82a8a1d319e6a453aa9298e7fab603c",
+  "godot_version": "4.7.2.stable.official.ed1daf0bf",
+  "engine_sha256": "8d106cbe6144c2dc7e881d61d2429c1a8a76e6b22ef48bd5e48dcf934953f71e",
+  "engine_gate": "DOOMBOAT_ENGINE_TESTS_PASS (15 smokes)",
+  "verified_scope": "ACTUAL_ENGINE_WINDOW_CAPTURE",
+  "not_verified": [
+    "physical controls",
+    "phone",
+    "audio",
+    "LAN peer",
+    "independent review"
+  ],
+  "release": "BLOCKED",
+  "captured_at_utc": "2026-11-24T11:18:11.730063+00:00"
+}

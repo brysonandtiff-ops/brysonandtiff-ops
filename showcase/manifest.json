@@ -1,0 +1,1702 @@
+{
+  "title": "Bryson \u2014 Git Profile Software Showcase & Visual Audit",
+  "built_at_utc": "2026-11-24T11:18:11.730063+00:00",
+  "rules": [
+    "Media is copied from existing repo evidence only \u2014 nothing invented.",
+    "Each file records source path, source HEAD SHA, and content SHA-256.",
+    "NO_VISUAL_PROOF means audit gap, not a pass.",
+    "Committed historical proof is not automatic certification of current live deploy."
+  ],
+  "counts": {
+    "projects": 24,
+    "with_photos": 23,
+    "with_videos": 8,
+    "no_visual_proof": 1,
+    "total_photos": 112,
+    "total_videos": 11
+  },
+  "projects": [
+    {
+      "repo": "vishvakarma-os",
+      "name": "Vishvakarma.OS",
+      "slug": "vishvakarmaos",
+      "category": "software",
+      "summary": "Browser-native architectural planning and 3D review workstation.",
+      "notes": null,
+      "github": "https://github.com/brysonandtiff-ops/vishvakarma-os",
+      "branch": "main",
+      "sha": "3bf5153c04f00a19fa12d2bb2551ea420a632363",
+      "sha_short": "3bf5153c0",
+      "commit_date": "2026-09-27T22:38:34+08:00",
+      "commit_subject": "docs: align certification and deployment claims with current authority",
+      "proof_status": "HAS_PHOTOS_ONLY",
+      "photo_count": 8,
+      "video_count": 0,
+      "photos": [
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "docs/release/evidence/screenshots/01-landing-hero.png",
+          "showcase_rel": "projects/vishvakarmaos/photos/docs__release__evidence__screenshots__01-landing-hero.png",
+          "bytes": 876662,
+          "sha256": "e94234f0705389d3aaa2531c6d77cb75d426a9625e97d4de0ca9db3def176f76",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "docs/release/evidence/screenshots/03-editor-2d-sample.png",
+          "showcase_rel": "projects/vishvakarmaos/photos/docs__release__evidence__screenshots__03-editor-2d-sample.png",
+          "bytes": 608378,
+          "sha256": "c50d5562dafdcd65145af7eee63826d889feca2eaccf1d549595d5412e6b90dd",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "docs/release/evidence/screenshots/04-editor-3d-premium.png",
+          "showcase_rel": "projects/vishvakarmaos/photos/docs__release__evidence__screenshots__04-editor-3d-premium.png",
+          "bytes": 613720,
+          "sha256": "94d6ca9988525b53ba92ee004e532bd61c892e256ec717657b4d347e55246758",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "docs/release/evidence/screenshots/02-auth-email-link.png",
+          "showcase_rel": "projects/vishvakarmaos/photos/docs__release__evidence__screenshots__02-auth-email-link.png",
+          "bytes": 651000,
+          "sha256": "8f4a36eb5c86db74e2497398e60ed130630006ff227deefb6b94e6bdd20f3751",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "docs/release/evidence/screenshots/09-pricing-tiers.png",
+          "showcase_rel": "projects/vishvakarmaos/photos/docs__release__evidence__screenshots__09-pricing-tiers.png",
+          "bytes": 261962,
+          "sha256": "42af456c97a173c0cfb14c96625236965e559e6dfbded68532f17cdc4ff7d37f",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "docs/release/evidence/screenshots/11-releases.png",
+          "showcase_rel": "projects/vishvakarmaos/photos/docs__release__evidence__screenshots__11-releases.png",
+          "bytes": 420111,
+          "sha256": "4c7ca947ee524351aaf9d21dfec4d43310cd417bba3d4eff9d5c26dac7581945",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "docs/release/evidence/screenshots/12-world-records.png",
+          "showcase_rel": "projects/vishvakarmaos/photos/docs__release__evidence__screenshots__12-world-records.png",
+          "bytes": 453885,
+          "sha256": "588a71f43506b5fb109f5c14d56a02192415cf92caf5cfc569d8c91e2e181a9f",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "docs/release/evidence/screenshots/13-audit.png",
+          "showcase_rel": "projects/vishvakarmaos/photos/docs__release__evidence__screenshots__13-audit.png",
+          "bytes": 270728,
+          "sha256": "c7427531211bb4563abec630aca0a552fe0eefdc890661c55ad4854c025f726b",
+          "ext": ".png"
+        }
+      ],
+      "videos": [],
+      "folder": "projects/vishvakarmaos"
+    },
+    {
+      "repo": "dentalstudio-os",
+      "name": "DentalStudio.OS",
+      "slug": "dentalstudioos",
+      "category": "software",
+      "summary": "Clinical-grade browser dental planning OS with demo corridor and evidence packs.",
+      "notes": null,
+      "github": "https://github.com/brysonandtiff-ops/dentalstudio-os",
+      "branch": "main",
+      "sha": "3418d7f21ecbef0bc374711d94a356118d3570ba",
+      "sha_short": "3418d7f2",
+      "commit_date": "2026-10-07T00:56:48+08:00",
+      "commit_subject": "fix(release): reuse SHA256-matched production model",
+      "proof_status": "HAS_PHOTOS_AND_VIDEOS",
+      "photo_count": 7,
+      "video_count": 4,
+      "photos": [
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "release-evidence/dentist-pilot-final-20260814/browser-proof/screenshots/landing.png",
+          "showcase_rel": "projects/dentalstudioos/photos/release-evidence__dentist-pilot-final-20260814__browser-proof__screenshots__landing.png",
+          "bytes": 1886767,
+          "sha256": "ec07c2a05efb0e261d4ad5de082fcdc667b6bc949133ea7154be33597bc1a47d",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "release-evidence/dentist-pilot-final-20260814/browser-proof/screenshots/pricing.png",
+          "showcase_rel": "projects/dentalstudioos/photos/release-evidence__dentist-pilot-final-20260814__browser-proof__screenshots__pricing.png",
+          "bytes": 508874,
+          "sha256": "f9443bd820889435b0a5af1ed12e4cbe92253c05927b9c8b54b578ca9d084739",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "docs/release/proof-pack/screenshots/cold-open-critical-routes/reports.png",
+          "showcase_rel": "projects/dentalstudioos/photos/docs__release__proof-pack__screenshots__cold-open-critical-routes__reports.png",
+          "bytes": 347100,
+          "sha256": "43d3a99ffe3852b7e79d31d1759a63380030fac96a4ec72b8595c2b03a17d8cb",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "e2e-results/phiro-corridor/Implant-Planning.png",
+          "showcase_rel": "projects/dentalstudioos/photos/e2e-results__phiro-corridor__Implant-Planning.png",
+          "bytes": 210470,
+          "sha256": "a29d89e8f8067d3f26df8a91ab8d96a6177b2b57f47282036e3bca4b94ed42dc",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "e2e-results/phiro-corridor/Presentation-Mode.png",
+          "showcase_rel": "projects/dentalstudioos/photos/e2e-results__phiro-corridor__Presentation-Mode.png",
+          "bytes": 221689,
+          "sha256": "93944983d688f3545392cff3e4b6fb84b7ee052eeae60843d0a7cf4b196edd7b",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "e2e-results/phiro-corridor/Report.png",
+          "showcase_rel": "projects/dentalstudioos/photos/e2e-results__phiro-corridor__Report.png",
+          "bytes": 5854,
+          "sha256": "01684ab049478b58e665e37cda69dcc9bd1327d4062d9aaa2d5f131bf05b353a",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "e2e-results/phiro-corridor/Cases.png",
+          "showcase_rel": "projects/dentalstudioos/photos/e2e-results__phiro-corridor__Cases.png",
+          "bytes": 304688,
+          "sha256": "3fd0b870f3fed7e019739b52ebec5fe9db8246aa84b2cc39360ea6380090ced9",
+          "ext": ".png"
+        }
+      ],
+      "videos": [
+        {
+          "status": "COPIED",
+          "kind": "video",
+          "source_rel": "release-evidence/dentist-pilot-final-20260814/videos/video-1-dentist-core-workflow.mp4",
+          "showcase_rel": "projects/dentalstudioos/videos/release-evidence__dentist-pilot-final-20260814__videos__video-1-dentist-core-workflow.mp4",
+          "bytes": 1660424,
+          "sha256": "9f0833efe914144832e2cad6a9450f9f85c0a9e305e8924d9bf71d5f527d7870",
+          "ext": ".mp4"
+        },
+        {
+          "status": "COPIED",
+          "kind": "video",
+          "source_rel": "release-evidence/dentist-pilot-final-20260814/videos/video-2-ipad-workflow.mp4",
+          "showcase_rel": "projects/dentalstudioos/videos/release-evidence__dentist-pilot-final-20260814__videos__video-2-ipad-workflow.mp4",
+          "bytes": 1098199,
+          "sha256": "73d5aab1a3ffd143c760427d5a1969e51206f015339a1e78321ac290ad691bbe",
+          "ext": ".mp4"
+        },
+        {
+          "status": "COPIED",
+          "kind": "video",
+          "source_rel": "release-evidence/dentist-pilot-final-20260814/videos/video-3-imaging-workflow.mp4",
+          "showcase_rel": "projects/dentalstudioos/videos/release-evidence__dentist-pilot-final-20260814__videos__video-3-imaging-workflow.mp4",
+          "bytes": 763781,
+          "sha256": "fe7f1688e22d250203791bb0886693817255bc182dcbb860d5911401ae0e4699",
+          "ext": ".mp4"
+        },
+        {
+          "status": "COPIED",
+          "kind": "video",
+          "source_rel": "release-evidence/dentist-pilot-final-20260814/videos/video-5-pilot-overview.mp4",
+          "showcase_rel": "projects/dentalstudioos/videos/release-evidence__dentist-pilot-final-20260814__videos__video-5-pilot-overview.mp4",
+          "bytes": 1329399,
+          "sha256": "712be186881de76f7b2e1ee20b66073de7050c178aa14ffaf55d995d494bdec2",
+          "ext": ".mp4"
+        }
+      ],
+      "folder": "projects/dentalstudioos"
+    },
+    {
+      "repo": "aiprofex-os",
+      "name": "AIProfex.OS",
+      "slug": "aiprofexos",
+      "category": "software",
+      "summary": "Education / operations OS with dashboard, scheduling, and admin surfaces.",
+      "notes": null,
+      "github": "https://github.com/brysonandtiff-ops/aiprofex-os",
+      "branch": "main",
+      "sha": "deaf99c7cfe0f7d0b194409328ef34778c9cf743",
+      "sha_short": "deaf99c",
+      "commit_date": "2026-08-08T18:07:38+08:00",
+      "commit_subject": "chore(evidence): update verified production screenshots",
+      "proof_status": "HAS_PHOTOS_ONLY",
+      "photo_count": 7,
+      "video_count": 0,
+      "photos": [
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "docs/screenshots/dashboard-overview.png",
+          "showcase_rel": "projects/aiprofexos/photos/docs__screenshots__dashboard-overview.png",
+          "bytes": 452886,
+          "sha256": "2cb95e0f0d384893150129b97db17f40adbe4b02c4f163383edf4839318c3c87",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "docs/screenshots/projects.png",
+          "showcase_rel": "projects/aiprofexos/photos/docs__screenshots__projects.png",
+          "bytes": 416188,
+          "sha256": "ad607654ac7d00ebfd17c278cc311564ae9ac3fe79a39d9585ed13d533094808",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "docs/screenshots/scheduling.png",
+          "showcase_rel": "projects/aiprofexos/photos/docs__screenshots__scheduling.png",
+          "bytes": 358392,
+          "sha256": "5f6ade3de210f4204e0588c16de52b202ec6bd5c874aa9a30a60bed7931b0b02",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "docs/screenshots/guardians.png",
+          "showcase_rel": "projects/aiprofexos/photos/docs__screenshots__guardians.png",
+          "bytes": 373211,
+          "sha256": "04ba7cc4e310cdd745f550bebd19f45887d10c035480b74af57342cf72c5743a",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "docs/screenshots/admin-users.png",
+          "showcase_rel": "projects/aiprofexos/photos/docs__screenshots__admin-users.png",
+          "bytes": 354097,
+          "sha256": "d0dd59bee0583cfd5cce671fb9d982825ecf0cca8b11a308c63f4f22d742f55d",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "docs/screenshots/settings-appearance.png",
+          "showcase_rel": "projects/aiprofexos/photos/docs__screenshots__settings-appearance.png",
+          "bytes": 413595,
+          "sha256": "393d630b852d77d9edb9d26330a5b031fb6fe769d895e5c94a599ea5224864c5",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "evidence/auth-production-proof/01-register-page.png",
+          "showcase_rel": "projects/aiprofexos/photos/evidence__auth-production-proof__01-register-page.png",
+          "bytes": 39835,
+          "sha256": "8de05aa7a9b5af2debacc3233ed4aeeb1f00c59ee8c483851e0f74758884bfcb",
+          "ext": ".png"
+        }
+      ],
+      "videos": [],
+      "folder": "projects/aiprofexos"
+    },
+    {
+      "repo": "Midnight-",
+      "name": "Midnight (Velvet Haven / Veilmorph)",
+      "slug": "midnight-velvet-haven---veilmorph",
+      "category": "software",
+      "summary": "Phone-first creative apps: Velvet Haven couture + Veilmorph studio.",
+      "notes": null,
+      "github": "https://github.com/brysonandtiff-ops/Midnight-",
+      "branch": "main",
+      "sha": "383d5b78af4aa13d83d79bd91fa8f149ed437615",
+      "sha_short": "383d5b78",
+      "commit_date": "2026-11-24T10:25:39+00:00",
+      "commit_subject": "Merge PR #50: bind Midnight host for Cursor Apps asset loading",
+      "proof_status": "HAS_PHOTOS_ONLY",
+      "photo_count": 8,
+      "video_count": 0,
+      "photos": [
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "docs/screenshots/01-today-phone-390x844.png",
+          "showcase_rel": "projects/midnight-velvet-haven---veilmorph/photos/docs__screenshots__01-today-phone-390x844.png",
+          "bytes": 207429,
+          "sha256": "96464aa77e437fc47a7ee82e051c4c6e6ccb0b8710e6c34cfa480ae609cb7fdc",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "docs/screenshots/02-planner-fold-344x882-large.png",
+          "showcase_rel": "projects/midnight-velvet-haven---veilmorph/photos/docs__screenshots__02-planner-fold-344x882-large.png",
+          "bytes": 145936,
+          "sha256": "a3590a9b188bef4ff2fc3f92e4fb2034b5c38c419433e26f1e08e0d896046604",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "docs/screenshots/03-veilmorph-studio-390x844.png",
+          "showcase_rel": "projects/midnight-velvet-haven---veilmorph/photos/docs__screenshots__03-veilmorph-studio-390x844.png",
+          "bytes": 130328,
+          "sha256": "431ac2bee7a187e817fffad5d8bfb12f3a06eef196992e1d4e08e3c4a9d9c4ea",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "docs/screenshots/04-velvet-couture-390x844.png",
+          "showcase_rel": "projects/midnight-velvet-haven---veilmorph/photos/docs__screenshots__04-velvet-couture-390x844.png",
+          "bytes": 338470,
+          "sha256": "0754723b0fcca1e70fee4faa90b0c94d2ad6aa90e3194ce588270f79c5837fe7",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "apps/velvet-haven/docs/screenshots/new-ui-20261114/01-codex-hub_390x844.png",
+          "showcase_rel": "projects/midnight-velvet-haven---veilmorph/photos/apps__velvet-haven__docs__screenshots__new-ui-20261114__01-codex-hub_390x844.png",
+          "bytes": 470650,
+          "sha256": "109a324423f70c119ab881d800653cde14273d58b243cc37ad8894f705f3d9a6",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "apps/velvet-haven/docs/screenshots/new-ui-20261114/02-ideas-discover_390x844.png",
+          "showcase_rel": "projects/midnight-velvet-haven---veilmorph/photos/apps__velvet-haven__docs__screenshots__new-ui-20261114__02-ideas-discover_390x844.png",
+          "bytes": 508441,
+          "sha256": "3cc7addbc2342b81283d8d2babe0cf66c6a66ed16f1a0dbf66446eb7fdd89d14",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "apps/velvet-haven/docs/screenshots/new-ui-20261114/03-workshop-monster_390x844.png",
+          "showcase_rel": "projects/midnight-velvet-haven---veilmorph/photos/apps__velvet-haven__docs__screenshots__new-ui-20261114__03-workshop-monster_390x844.png",
+          "bytes": 733979,
+          "sha256": "d72a3366f501e8c70afe738a2c2aba9c94bd727986ad78d5cd6b74dbbb9ec1cd",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "apps/veilmorph-studio/evidence/live-release/access-desktop-1280x720.png",
+          "showcase_rel": "projects/midnight-velvet-haven---veilmorph/photos/apps__veilmorph-studio__evidence__live-release__access-desktop-1280x720.png",
+          "bytes": 961258,
+          "sha256": "3635df2431150ba6ff83920a2fb437481e06a983410547b3e434b909e4e6eefb",
+          "ext": ".png"
+        }
+      ],
+      "videos": [],
+      "folder": "projects/midnight-velvet-haven---veilmorph"
+    },
+    {
+      "repo": "PERTHSAVER",
+      "name": "PerthSaver",
+      "slug": "perthsaver",
+      "category": "software",
+      "summary": "Perth savings / deals platform (limited committed UI proof in-repo).",
+      "notes": null,
+      "github": "https://github.com/brysonandtiff-ops/PERTHSAVER",
+      "branch": "main",
+      "sha": "2a3fad8bcb1e9ba4ad76ed534c608502d9ecb10a",
+      "sha_short": "2a3fad8",
+      "commit_date": "2026-08-09T01:13:32+08:00",
+      "commit_subject": "fix: add serverless resilience fallback to community posts endpoint",
+      "proof_status": "HAS_PHOTOS_AND_VIDEOS",
+      "photo_count": 3,
+      "video_count": 1,
+      "photos": [
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "client/public/opengraph.jpg",
+          "showcase_rel": "projects/perthsaver/photos/client__public__opengraph.jpg",
+          "bytes": 63530,
+          "sha256": "8316d82252d5be8b8d242fc26f9a1cf99556a546fcf33eaee26893937f6ebd59",
+          "ext": ".jpg"
+        },
+        {
+          "status": "COPIED",
+          "kind": "fresh_photo",
+          "source_rel": "fresh-runtime/01-home.png",
+          "showcase_rel": "projects/perthsaver/fresh-runtime/01-home.png",
+          "bytes": 449055,
+          "sha256": "3c72ef216bb99c0c7d84e54cf0661642c426e08ec5c887a654fe69c06537981a",
+          "ext": ".png",
+          "provenance": "FRESH_RUNTIME_CAPTURE",
+          "note": "Playwright Chromium fresh capture of local Vite client against checkout HEAD."
+        },
+        {
+          "status": "COPIED",
+          "kind": "fresh_photo",
+          "source_rel": "fresh-runtime/02-after-cta.png",
+          "showcase_rel": "projects/perthsaver/fresh-runtime/02-after-cta.png",
+          "bytes": 1184461,
+          "sha256": "144dc17951fd4d5f3f5f155240f6407113ccc6958a1621f922a7b93d57bcc736",
+          "ext": ".png",
+          "provenance": "FRESH_RUNTIME_CAPTURE",
+          "note": "Playwright Chromium fresh capture of local Vite client against checkout HEAD."
+        }
+      ],
+      "videos": [
+        {
+          "status": "COPIED",
+          "kind": "fresh_video",
+          "source_rel": "fresh-runtime/ui-loop.webm",
+          "showcase_rel": "projects/perthsaver/fresh-runtime/ui-loop.webm",
+          "bytes": 984934,
+          "sha256": "ae9fabf8003612651acf7098d9e47fe22b3dd743884d30e7004f1b71532260a8",
+          "ext": ".webm",
+          "provenance": "FRESH_RUNTIME_CAPTURE",
+          "note": "Playwright Chromium fresh capture of local Vite client against checkout HEAD."
+        }
+      ],
+      "folder": "projects/perthsaver"
+    },
+    {
+      "repo": "OmniWord",
+      "name": "OmniWord",
+      "slug": "omniword",
+      "category": "software",
+      "summary": "Writing / cryptex web app (no committed UI screenshots found).",
+      "notes": null,
+      "github": "https://github.com/brysonandtiff-ops/OmniWord",
+      "branch": "buildforge/omniword-cloudflare-20260906-231623",
+      "sha": "8dc9c9abc78e750a32c6624b2387134ca05dab52",
+      "sha_short": "8dc9c9a",
+      "commit_date": "2026-09-07T21:52:13+08:00",
+      "commit_subject": "feat(omniword): V2 touch-first gameplay phase 1",
+      "proof_status": "HAS_PHOTOS_AND_VIDEOS",
+      "photo_count": 2,
+      "video_count": 1,
+      "photos": [
+        {
+          "status": "COPIED",
+          "kind": "fresh_photo",
+          "source_rel": "fresh-runtime/01-boot-ui.png",
+          "showcase_rel": "projects/omniword/fresh-runtime/01-boot-ui.png",
+          "bytes": 1014579,
+          "sha256": "cb20f273873ec42caa408c17a19fe0a3c05f19a872678b20c3708ce02c0983a8",
+          "ext": ".png",
+          "provenance": "FRESH_RUNTIME_CAPTURE"
+        },
+        {
+          "status": "COPIED",
+          "kind": "fresh_photo",
+          "source_rel": "fresh-runtime/02-after-cta.png",
+          "showcase_rel": "projects/omniword/fresh-runtime/02-after-cta.png",
+          "bytes": 1013263,
+          "sha256": "3589b6c1e10443db2fe86a5a4d4fc74add177ef02c1a0620557fe74f17eee6eb",
+          "ext": ".png",
+          "provenance": "FRESH_RUNTIME_CAPTURE"
+        }
+      ],
+      "videos": [
+        {
+          "status": "COPIED",
+          "kind": "fresh_video",
+          "source_rel": "fresh-runtime/ui-loop.webm",
+          "showcase_rel": "projects/omniword/fresh-runtime/ui-loop.webm",
+          "bytes": 2972975,
+          "sha256": "7cd12e86eb3721e8a82b9037d4850f0246b62c7d229f965c55fa339e59eec099",
+          "ext": ".webm",
+          "provenance": "FRESH_RUNTIME_CAPTURE"
+        }
+      ],
+      "folder": "projects/omniword"
+    },
+    {
+      "repo": "animesteam-os",
+      "name": "AnimeSteam.OS",
+      "slug": "animesteamos",
+      "category": "software",
+      "summary": "Anime-focused OS web app (icons only; no UI screenshots found).",
+      "notes": null,
+      "github": "https://github.com/brysonandtiff-ops/animesteam-os",
+      "branch": "main",
+      "sha": "c2e6beaec4c8a9a1eaf878521dab5fb00ac0a2f4",
+      "sha_short": "c2e6bea",
+      "commit_date": "2026-07-17T18:22:01+08:00",
+      "commit_subject": "chore(release): add honest AnimeSteam release manifest",
+      "proof_status": "HAS_PHOTOS_AND_VIDEOS",
+      "photo_count": 2,
+      "video_count": 1,
+      "photos": [
+        {
+          "status": "COPIED",
+          "kind": "fresh_photo",
+          "source_rel": "fresh-runtime/01-boot-ui.png",
+          "showcase_rel": "projects/animesteamos/fresh-runtime/01-boot-ui.png",
+          "bytes": 463836,
+          "sha256": "b4dad98d21395c8b7eb8611cec1b12fa13cef4d8206cde9b3fad88197373dfc3",
+          "ext": ".png",
+          "provenance": "FRESH_RUNTIME_CAPTURE"
+        },
+        {
+          "status": "COPIED",
+          "kind": "fresh_photo",
+          "source_rel": "fresh-runtime/02-after-cta.png",
+          "showcase_rel": "projects/animesteamos/fresh-runtime/02-after-cta.png",
+          "bytes": 406591,
+          "sha256": "7b3a7895648e7dcd7cdfc758affed64a3c539c72d502e36048c7e8c704581c2a",
+          "ext": ".png",
+          "provenance": "FRESH_RUNTIME_CAPTURE"
+        }
+      ],
+      "videos": [
+        {
+          "status": "COPIED",
+          "kind": "fresh_video",
+          "source_rel": "fresh-runtime/ui-loop.webm",
+          "showcase_rel": "projects/animesteamos/fresh-runtime/ui-loop.webm",
+          "bytes": 1243388,
+          "sha256": "12aefc152d5a20e6e4a41098574a0b6927ea23c0b5221cc529e736e639a31e88",
+          "ext": ".webm",
+          "provenance": "FRESH_RUNTIME_CAPTURE"
+        }
+      ],
+      "folder": "projects/animesteamos"
+    },
+    {
+      "repo": "Moonwake",
+      "name": "Moonwake",
+      "slug": "moonwake",
+      "category": "software",
+      "summary": "S.I.R.E.-governed project (no committed UI screenshots found).",
+      "notes": null,
+      "github": "https://github.com/brysonandtiff-ops/Moonwake",
+      "branch": "main",
+      "sha": "1641594ea1156ac30e2da68812225a340cd76a1d",
+      "sha_short": "1641594",
+      "commit_date": "2026-10-09T22:46:57+08:00",
+      "commit_subject": "chore: establish independent Moonwake recovery repository under S.I.R.E. laws",
+      "proof_status": "HAS_PHOTOS_AND_VIDEOS",
+      "photo_count": 2,
+      "video_count": 1,
+      "photos": [
+        {
+          "status": "COPIED",
+          "kind": "fresh_photo",
+          "source_rel": "fresh-runtime/01-boot-ui.png",
+          "showcase_rel": "projects/moonwake/fresh-runtime/01-boot-ui.png",
+          "bytes": 824110,
+          "sha256": "cdad4c565c5be8504f0574a79a138a87f1dfed58e6f7888ba5dbfce8f0481487",
+          "ext": ".png",
+          "provenance": "FRESH_RUNTIME_CAPTURE"
+        },
+        {
+          "status": "COPIED",
+          "kind": "fresh_photo",
+          "source_rel": "fresh-runtime/02-after-cta.png",
+          "showcase_rel": "projects/moonwake/fresh-runtime/02-after-cta.png",
+          "bytes": 612869,
+          "sha256": "5726fbacb07828d8957299e89f14a357305e3589336c34eacc1c8282aca5629f",
+          "ext": ".png",
+          "provenance": "FRESH_RUNTIME_CAPTURE"
+        }
+      ],
+      "videos": [
+        {
+          "status": "COPIED",
+          "kind": "fresh_video",
+          "source_rel": "fresh-runtime/ui-loop.webm",
+          "showcase_rel": "projects/moonwake/fresh-runtime/ui-loop.webm",
+          "bytes": 1167743,
+          "sha256": "de598ed9f6898c1ea1d30166a0ee80b391c9872b3a9f85e564170ba8acfb8fa3",
+          "ext": ".webm",
+          "provenance": "FRESH_RUNTIME_CAPTURE"
+        }
+      ],
+      "folder": "projects/moonwake"
+    },
+    {
+      "repo": "SIRE",
+      "name": "S.I.R.E.",
+      "slug": "sire",
+      "category": "tooling",
+      "summary": "Sovereign engineering laws, control surfaces, and certification tooling.",
+      "notes": null,
+      "github": "https://github.com/brysonandtiff-ops/SIRE",
+      "branch": "main",
+      "sha": "a622efe8378f8ff0617a884763907faeda3e6d3e",
+      "sha_short": "a622efe8",
+      "commit_date": "2026-11-24T14:26:07+08:00",
+      "commit_subject": "Merge pull request #839 from brysonandtiff-ops/ccr-fbde1fa1-gj1fgw",
+      "proof_status": "HAS_PHOTOS_ONLY",
+      "photo_count": 7,
+      "video_count": 0,
+      "photos": [
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "evidence/sire-horizon-certification/01_SPLASH.png",
+          "showcase_rel": "projects/sire/photos/evidence__sire-horizon-certification__01_SPLASH.png",
+          "bytes": 307571,
+          "sha256": "0935c1cc3381a75d8060c611f180ac8c5415c28b601d3f21ec55525776c371bc",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "evidence/sire-horizon-certification/02_MAIN_1920x1080.png",
+          "showcase_rel": "projects/sire/photos/evidence__sire-horizon-certification__02_MAIN_1920x1080.png",
+          "bytes": 309859,
+          "sha256": "37884702873e8b4ee778cdc2a863b245c0a47385107902ac7663f3343d39390e",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "evidence/sire-horizon-certification/08_FLEET.png",
+          "showcase_rel": "projects/sire/photos/evidence__sire-horizon-certification__08_FLEET.png",
+          "bytes": 70452,
+          "sha256": "2f409473a63d04a60765f3024f111dd35a9924b0a136902764a4ee22e752a01d",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "evidence/sire-horizon-certification/09_PRESERVATION.png",
+          "showcase_rel": "projects/sire/photos/evidence__sire-horizon-certification__09_PRESERVATION.png",
+          "bytes": 72729,
+          "sha256": "cef9e4cefc4dc6e121f436fb96071e569e5658990a00568fc14cf9c2d57b56f0",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "evidence/sire-horizon-certification/10_RECOVERY.png",
+          "showcase_rel": "projects/sire/photos/evidence__sire-horizon-certification__10_RECOVERY.png",
+          "bytes": 96572,
+          "sha256": "91b2f7f75d453cc402db7acb4b00a1d5b45117e672cca60becdb5b4eb46f0777",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "evidence/fleet-command-v1/fleet-command-proof-annotated.png",
+          "showcase_rel": "projects/sire/photos/evidence__fleet-command-v1__fleet-command-proof-annotated.png",
+          "bytes": 161428,
+          "sha256": "4ac3cb075b79e90c9cbdf6fc60ff12a051ec2821f50aff07d14f8dbd320cb310",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "sire-web/src/assets/hero.png",
+          "showcase_rel": "projects/sire/photos/sire-web__src__assets__hero.png",
+          "bytes": 13057,
+          "sha256": "881ffbcaafc212e49addad08846a5b82761355fa20624253af3477ba33262c5c",
+          "ext": ".png"
+        }
+      ],
+      "videos": [],
+      "folder": "projects/sire"
+    },
+    {
+      "repo": "Aethelgard",
+      "name": "Aethelgard",
+      "slug": "aethelgard",
+      "category": "game",
+      "summary": "Browser Three.js world / Wildborn baseline (known boot hang on current main).",
+      "notes": "AGENTS.md notes orphaned top-level ReferenceError blocks in-world boot.",
+      "github": "https://github.com/brysonandtiff-ops/Aethelgard",
+      "branch": "main",
+      "sha": "18c0e4017e48d56d23750aea887964db3281758e",
+      "sha_short": "18c0e40",
+      "commit_date": "2026-07-19T13:21:33+08:00",
+      "commit_subject": "docs: add product readiness certification gate",
+      "proof_status": "HAS_PHOTOS_ONLY",
+      "photo_count": 8,
+      "video_count": 0,
+      "photos": [
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "docs/release/wildborn-baseline/amber-fox-select.png",
+          "showcase_rel": "projects/aethelgard/photos/docs__release__wildborn-baseline__amber-fox-select.png",
+          "bytes": 606489,
+          "sha256": "b7b0d657317a840d5dd6ab5fef1c8ca6eea0285ebf5decb74c1b14c2f8e927c5",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "docs/release/wildborn-baseline/moon-lynx-select.png",
+          "showcase_rel": "projects/aethelgard/photos/docs__release__wildborn-baseline__moon-lynx-select.png",
+          "bytes": 614416,
+          "sha256": "9965c1da223acbd03c0ff2fcd89d1367edaad5b76126c66af8643a63a4083f71",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "docs/release/wildborn-baseline/spirit-wyrmling-select.png",
+          "showcase_rel": "projects/aethelgard/photos/docs__release__wildborn-baseline__spirit-wyrmling-select.png",
+          "bytes": 620603,
+          "sha256": "b2279b1aade8fa00578bba9128803aba964d3e7a52bd08781876114c7c33ef42",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "docs/release/wildborn-baseline/amber-fox-hud.png",
+          "showcase_rel": "projects/aethelgard/photos/docs__release__wildborn-baseline__amber-fox-hud.png",
+          "bytes": 453537,
+          "sha256": "f3bb64087567d1a8c67753ec2ae7066d632b9f1bca1420eceb7d5ab9cd084543",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "docs/release/wildborn-baseline/moon-lynx-hud.png",
+          "showcase_rel": "projects/aethelgard/photos/docs__release__wildborn-baseline__moon-lynx-hud.png",
+          "bytes": 464024,
+          "sha256": "259eea0f5f8d5e60bb583920018cc01214682752d45469e53b17f82caa124369",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "docs/release/wildborn-baseline/spirit-wyrmling-hud.png",
+          "showcase_rel": "projects/aethelgard/photos/docs__release__wildborn-baseline__spirit-wyrmling-hud.png",
+          "bytes": 463108,
+          "sha256": "03fd540bcffab2471d8753a92d4c3e2417666fe0bdf2b371037b53c2da8a8d0e",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "public/screenshot-wide.png",
+          "showcase_rel": "projects/aethelgard/photos/public__screenshot-wide.png",
+          "bytes": 50875,
+          "sha256": "a70abe3e771a9f7a89568c4db8329abd3e6b1897acf62c87a1c1c8c745d64a01",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "fresh_photo",
+          "source_rel": "fresh-runtime/01-boot-ui.png",
+          "showcase_rel": "projects/aethelgard/fresh-runtime/01-boot-ui.png",
+          "bytes": 501275,
+          "sha256": "b089d57e2ad7bfb67809ef8a9b08f08a00b1ca18af212c99862bb03212137729",
+          "ext": ".png",
+          "provenance": "FRESH_RUNTIME_CAPTURE"
+        }
+      ],
+      "videos": [],
+      "folder": "projects/aethelgard"
+    },
+    {
+      "repo": "aethelgard-unity",
+      "name": "Aethelgard Unity",
+      "slug": "aethelgard-unity",
+      "category": "game",
+      "summary": "Unity port stub / companion (no visual proof found).",
+      "notes": null,
+      "github": "https://github.com/brysonandtiff-ops/aethelgard-unity",
+      "branch": "main",
+      "sha": "cf58f2c0adc551922a3139885eea87de2b259e95",
+      "sha_short": "cf58f2c",
+      "commit_date": "2026-07-17T18:27:47+08:00",
+      "commit_subject": "chore(release): add honest Aethelgard Unity manifest",
+      "proof_status": "NO_VISUAL_PROOF",
+      "photo_count": 0,
+      "video_count": 0,
+      "photos": [],
+      "videos": [],
+      "folder": "projects/aethelgard-unity"
+    },
+    {
+      "repo": "-Aetheria-Hyperstrike-Web",
+      "name": "Aetheria: Hyperstrike (Web)",
+      "slug": "aetheria-hyperstrike-web",
+      "category": "game",
+      "summary": "Browser game prototype with main-menu and combat proof shots.",
+      "notes": null,
+      "github": "https://github.com/brysonandtiff-ops/-Aetheria-Hyperstrike-Web",
+      "branch": "main",
+      "sha": "1f9300ba2331be23d81e3abbcde44ee160fa1244",
+      "sha_short": "1f9300b",
+      "commit_date": "2026-08-07T07:24:17+08:00",
+      "commit_subject": "v36.0.0 \u2014 Web Project Clean State",
+      "proof_status": "HAS_PHOTOS_ONLY",
+      "photo_count": 3,
+      "video_count": 0,
+      "photos": [
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "artifacts/hyperstrike-proof/main_menu_super_art.jpg",
+          "showcase_rel": "projects/aetheria-hyperstrike-web/photos/artifacts__hyperstrike-proof__main_menu_super_art.jpg",
+          "bytes": 946073,
+          "sha256": "03d5e81ed67f5d4c95fe4f5ad318aacc6c791e02b7a43902a04da572ce72ab83",
+          "ext": ".jpg"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "artifacts/hyperstrike-proof/combat_boss_encounter.jpg",
+          "showcase_rel": "projects/aetheria-hyperstrike-web/photos/artifacts__hyperstrike-proof__combat_boss_encounter.jpg",
+          "bytes": 875696,
+          "sha256": "9d00b9a3e9d5358f33b60ba1d479c94754e4961c039b495ca9e2ea643fe0f99e",
+          "ext": ".jpg"
+        },
+        {
+          "status": "COPIED",
+          "kind": "fresh_photo",
+          "source_rel": "fresh-runtime/01-boot-ui.png",
+          "showcase_rel": "projects/aetheria-hyperstrike-web/fresh-runtime/01-boot-ui.png",
+          "bytes": 307533,
+          "sha256": "2658707673b467b335dda7c0bb739e28b37ae5e19299bdf8cef3b76fc9462245",
+          "ext": ".png",
+          "provenance": "FRESH_RUNTIME_CAPTURE"
+        }
+      ],
+      "videos": [],
+      "folder": "projects/aetheria-hyperstrike-web"
+    },
+    {
+      "repo": "Aetheria-Hyperstrike-Godot",
+      "name": "Aetheria: Hyperstrike (Godot)",
+      "slug": "aetheria-hyperstrike-godot",
+      "category": "game",
+      "summary": "Godot campaign preview art.",
+      "notes": null,
+      "github": "https://github.com/brysonandtiff-ops/Aetheria-Hyperstrike-Godot",
+      "branch": "master",
+      "sha": "c52519426ab5b397cc91b6ab2eb0d453b5059c2b",
+      "sha_short": "c525194",
+      "commit_date": "2026-08-24T17:22:27+00:00",
+      "commit_subject": "Build playable Aetheria campaign vertical slice",
+      "proof_status": "HAS_PHOTOS_ONLY",
+      "photo_count": 1,
+      "video_count": 0,
+      "photos": [
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "artifacts/campaign_preview.png",
+          "showcase_rel": "projects/aetheria-hyperstrike-godot/photos/artifacts__campaign_preview.png",
+          "bytes": 81276,
+          "sha256": "b10acfa36b835528ef29d9afbb463da265468e5fbacc7b919c4ff5538418a015",
+          "ext": ".png"
+        }
+      ],
+      "videos": [],
+      "folder": "projects/aetheria-hyperstrike-godot"
+    },
+    {
+      "repo": "bad-take-final-cut",
+      "name": "Mimic Mayhem / Bad Take",
+      "slug": "mimic-mayhem---bad-take",
+      "category": "game",
+      "summary": "Prop-hunt prototype (Godot screenshots + Three.js web build).",
+      "notes": null,
+      "github": "https://github.com/brysonandtiff-ops/bad-take-final-cut",
+      "branch": "main",
+      "sha": "af2c676680fdb345d500f123898882135f9ab667",
+      "sha_short": "af2c676",
+      "commit_date": "2026-11-24T00:26:00+08:00",
+      "commit_subject": "Add #54 playtest script, label web build as legacy, track V4 UIDs (#71)",
+      "proof_status": "HAS_PHOTOS_AND_VIDEOS",
+      "photo_count": 5,
+      "video_count": 1,
+      "photos": [
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "godot/screenshots/01-coop-hide-phase-start.png",
+          "showcase_rel": "projects/mimic-mayhem---bad-take/photos/godot__screenshots__01-coop-hide-phase-start.png",
+          "bytes": 106493,
+          "sha256": "cb71203574a75115103fb0d34aededc4bac40392c1b52d8a24279e351183138c",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "godot/screenshots/02-coop-both-morphed.png",
+          "showcase_rel": "projects/mimic-mayhem---bad-take/photos/godot__screenshots__02-coop-both-morphed.png",
+          "bytes": 108260,
+          "sha256": "12bd458cbb701c7c07b10c0cd2a94d8aa49dd90e8e3d56c57c8278e9ec826c9c",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "godot/screenshots/03-coop-hunt-phase.png",
+          "showcase_rel": "projects/mimic-mayhem---bad-take/photos/godot__screenshots__03-coop-hunt-phase.png",
+          "bytes": 117682,
+          "sha256": "30e420009921c8d52c161b31cd33ca114dd359702ace325a75a2f816d63a0011",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "godot/screenshots/04-coop-props-win.png",
+          "showcase_rel": "projects/mimic-mayhem---bad-take/photos/godot__screenshots__04-coop-props-win.png",
+          "bytes": 98329,
+          "sha256": "1a36b90042de49f66765c9f7f60e3a69a2dd3e2f3c5d2b9d76bb2abff4795ce4",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "fresh_photo",
+          "source_rel": "fresh-runtime/01-boot-ui.png",
+          "showcase_rel": "projects/mimic-mayhem---bad-take/fresh-runtime/01-boot-ui.png",
+          "bytes": 616126,
+          "sha256": "ab3fc638d436fc3bacc23276a8ea7e8fa15162ac2b2984d240af9ac0b7eafc9a",
+          "ext": ".png",
+          "provenance": "FRESH_RUNTIME_CAPTURE"
+        }
+      ],
+      "videos": [
+        {
+          "status": "COPIED",
+          "kind": "fresh_video",
+          "source_rel": "fresh-runtime/ui-loop.webm",
+          "showcase_rel": "projects/mimic-mayhem---bad-take/fresh-runtime/ui-loop.webm",
+          "bytes": 2275143,
+          "sha256": "1a97cfc44c49a6ed22e9edff50686285dbebcf690777821b50950f922013c20c",
+          "ext": ".webm",
+          "provenance": "FRESH_RUNTIME_CAPTURE"
+        }
+      ],
+      "folder": "projects/mimic-mayhem---bad-take"
+    },
+    {
+      "repo": "ASHEN-SUN",
+      "name": "ASHEN SUN",
+      "slug": "ashen-sun",
+      "category": "game",
+      "summary": "Godot desert-temple exploration with software-render and Forward+ proof packs.",
+      "notes": null,
+      "github": "https://github.com/brysonandtiff-ops/ASHEN-SUN",
+      "branch": "main",
+      "sha": "1d937038a92679ce5e13a2273f7f1b5c0e36a2f0",
+      "sha_short": "1d93703",
+      "commit_date": "2026-11-19T22:53:18+08:00",
+      "commit_subject": "Merge: fix Continue/save state and add first-play guidance (#6)",
+      "proof_status": "HAS_PHOTOS_ONLY",
+      "photo_count": 6,
+      "video_count": 0,
+      "photos": [
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "proof/game_capture_software/screens/01_spawn_landing_plaza.png",
+          "showcase_rel": "projects/ashen-sun/photos/proof__game_capture_software__screens__01_spawn_landing_plaza.png",
+          "bytes": 855012,
+          "sha256": "06fc1f78735a2193f22bf12cf84c57ff68cf4f4bbbab6c66340e734b3a4da6ab",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "proof/game_capture_software/screens/02_overview_temple_route.png",
+          "showcase_rel": "projects/ashen-sun/photos/proof__game_capture_software__screens__02_overview_temple_route.png",
+          "bytes": 994104,
+          "sha256": "e3eebc0f7cc57a62ae581cbde13d66417529655e171e329fe38be04b497b1f2f",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "proof/game_capture_software/screens/03_fork_nekhet_ward.png",
+          "showcase_rel": "projects/ashen-sun/photos/proof__game_capture_software__screens__03_fork_nekhet_ward.png",
+          "bytes": 904330,
+          "sha256": "2bee57fb3be7f9fe2f07825721db00557108504d4aaf872e6f4ef7adfc36e7b4",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "proof/game_capture_software/screens/04_guardian_courtyard.png",
+          "showcase_rel": "projects/ashen-sun/photos/proof__game_capture_software__screens__04_guardian_courtyard.png",
+          "bytes": 780181,
+          "sha256": "74b398ff283ae144cc3f9a88bef6f834e5f2c7043b38f5c20fdb6529e55b28ec",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "evidence/software-render/capture_overview.png",
+          "showcase_rel": "projects/ashen-sun/photos/evidence__software-render__capture_overview.png",
+          "bytes": 994104,
+          "sha256": "e3eebc0f7cc57a62ae581cbde13d66417529655e171e329fe38be04b497b1f2f",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "proof/native_forward_plus_visual_v3/screens/overview.png",
+          "showcase_rel": "projects/ashen-sun/photos/proof__native_forward_plus_visual_v3__screens__overview.png",
+          "bytes": 1859128,
+          "sha256": "0a673d67417cf6f81cd3c5390392ab4d9243cbaf056a36a33c33da8a346747db",
+          "ext": ".png"
+        }
+      ],
+      "videos": [],
+      "folder": "projects/ashen-sun"
+    },
+    {
+      "repo": "Fossil.Os",
+      "name": "Fossil.OS",
+      "slug": "fossilos",
+      "category": "game",
+      "summary": "Godot 4.7 fossil expedition loop with visual evidence packs.",
+      "notes": null,
+      "github": "https://github.com/brysonandtiff-ops/Fossil.Os",
+      "branch": "main",
+      "sha": "4a5be540f919a2b28e687352aa1ccfecc53c2af5",
+      "sha_short": "4a5be54",
+      "commit_date": "2026-10-28T07:35:15+08:00",
+      "commit_subject": "Merge pull request #88 from brysonandtiff-ops/feat/fossil-100-percent-completion",
+      "proof_status": "HAS_PHOTOS_ONLY",
+      "photo_count": 4,
+      "video_count": 0,
+      "photos": [
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "evidence/visual/20260914T112235Z_63ccffb7a874/screens/02_strata_junction.png",
+          "showcase_rel": "projects/fossilos/photos/evidence__visual__20260914T112235Z_63ccffb7a874__screens__02_strata_junction.png",
+          "bytes": 2597902,
+          "sha256": "6e2d39d04525e0f6cb0dc606f448e0864e5182097402d298665cfccb017f35c4",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "evidence/visual/20260914T112235Z_63ccffb7a874/screens/03_bone_canyon.png",
+          "showcase_rel": "projects/fossilos/photos/evidence__visual__20260914T112235Z_63ccffb7a874__screens__03_bone_canyon.png",
+          "bytes": 1777044,
+          "sha256": "8c3c1d495f00d07bd32ef463bf497f4bafae59f0a63ce980bdb289ed3bc4e1fe",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "evidence/visual/20260914T112235Z_63ccffb7a874/screens/05_digging_reveal.png",
+          "showcase_rel": "projects/fossilos/photos/evidence__visual__20260914T112235Z_63ccffb7a874__screens__05_digging_reveal.png",
+          "bytes": 1777036,
+          "sha256": "f4f2173b360e573fb821747f6b655289ba809067a2748bb287aec64e0c53d3bd",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "Docs/visual_references/bone_canyon_aaa_visual_target.png",
+          "showcase_rel": "projects/fossilos/photos/Docs__visual_references__bone_canyon_aaa_visual_target.png",
+          "bytes": 6495100,
+          "sha256": "08074e85a6d5314ef32c3551fa6143a756e2835dd899494083bf1522d0bbd001",
+          "ext": ".png"
+        }
+      ],
+      "videos": [],
+      "folder": "projects/fossilos"
+    },
+    {
+      "repo": "Revamed-Mansion",
+      "name": "Revamed Mansion",
+      "slug": "revamed-mansion",
+      "category": "game",
+      "summary": "Family co-op mansion game with SHA-bound desktop/phone evidence.",
+      "notes": null,
+      "github": "https://github.com/brysonandtiff-ops/Revamed-Mansion",
+      "branch": "main",
+      "sha": "62f1344813bd73d4e4de0446a76d6c2095dcdf17",
+      "sha_short": "62f1344",
+      "commit_date": "2026-11-19T16:54:44+08:00",
+      "commit_subject": "Merge beta v1 slice: opening + Act I UX fixes (#38)",
+      "proof_status": "HAS_PHOTOS_ONLY",
+      "photo_count": 6,
+      "video_count": 0,
+      "photos": [
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "docs/evidence/f2b95cbdc8d0c037c449c1b7527eb2654b07a63e/desktop-1920x1080/00-title-screen.png",
+          "showcase_rel": "projects/revamed-mansion/photos/docs__evidence__f2b95cbdc8d0c037c449c1b7527eb2654b07a63e__desktop-1920x1080__00-title-screen.png",
+          "bytes": 2145190,
+          "sha256": "7e0576236e9f9d18d97bc4d66199d8bcbc257772a82bb6478c5b16742f1cb25e",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "docs/evidence/f2b95cbdc8d0c037c449c1b7527eb2654b07a63e/desktop-1920x1080/19-act2-continuation-unlocked.png",
+          "showcase_rel": "projects/revamed-mansion/photos/docs__evidence__f2b95cbdc8d0c037c449c1b7527eb2654b07a63e__desktop-1920x1080__19-act2-continuation-unlocked.png",
+          "bytes": 2063674,
+          "sha256": "b4a19d5962b48eda5417d90f50dfc57c1cd3eb5e020cd2d4ab32eff233c2d3c6",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "docs/sire-layout-sweep-20261011/desktop.png",
+          "showcase_rel": "projects/revamed-mansion/photos/docs__sire-layout-sweep-20261011__desktop.png",
+          "bytes": 2115987,
+          "sha256": "cbe2e5d0e0bc4fdca9de636c08e878fefca89fc0aabe20a7f42a2686af4f0fe1",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "docs/sire-layout-sweep-20261011/phone-portrait.png",
+          "showcase_rel": "projects/revamed-mansion/photos/docs__sire-layout-sweep-20261011__phone-portrait.png",
+          "bytes": 397796,
+          "sha256": "f1895d516db521c9f781b3c939e4943c4667b13127e6cb668bd15b727ede9af9",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "docs/sire-layout-sweep-20261011/tablet-landscape.png",
+          "showcase_rel": "projects/revamed-mansion/photos/docs__sire-layout-sweep-20261011__tablet-landscape.png",
+          "bytes": 1113984,
+          "sha256": "c010506ef6f3aa926afd2a85a2a5d3505030a2f685cf737f0b3e0331f2b7742b",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "docs/family-coop-demo-20261011.png",
+          "showcase_rel": "projects/revamed-mansion/photos/docs__family-coop-demo-20261011.png",
+          "bytes": 124252,
+          "sha256": "7f666d60d0e69b2ab8212ee037441c03333bb4b52dc05076cbea089e2a2eaf15",
+          "ext": ".png"
+        }
+      ],
+      "videos": [],
+      "folder": "projects/revamed-mansion"
+    },
+    {
+      "repo": "The-Wrong-Refl3ction",
+      "name": "The Wrong Reflection",
+      "slug": "the-wrong-reflection",
+      "category": "game",
+      "summary": "Horror mirror/co-op game with visual_proof screenshot set.",
+      "notes": null,
+      "github": "https://github.com/brysonandtiff-ops/The-Wrong-Refl3ction",
+      "branch": "main",
+      "sha": "e46dc328b2f85dcefe8a115970004c2f252fa6c4",
+      "sha_short": "e46dc32",
+      "commit_date": "2026-10-28T07:35:18+08:00",
+      "commit_subject": "Merge pull request #9 from brysonandtiff-ops/sire/unreal-rail-bootstrap",
+      "proof_status": "HAS_PHOTOS_ONLY",
+      "photo_count": 8,
+      "video_count": 0,
+      "photos": [
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "reports/visual_proof/01_Title_Screen.png",
+          "showcase_rel": "projects/the-wrong-reflection/photos/reports__visual_proof__01_Title_Screen.png",
+          "bytes": 69748,
+          "sha256": "409ad12fd6569b82219a25ca136410c33c8774519315adade5ddaa4029699572",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "reports/visual_proof/07_Darkroom.png",
+          "showcase_rel": "projects/the-wrong-reflection/photos/reports__visual_proof__07_Darkroom.png",
+          "bytes": 124709,
+          "sha256": "22018e0455db21d910368fc323fc286df53c839097ffe073106ea04489685c31",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "reports/visual_proof/08_Isolation_Corridor.png",
+          "showcase_rel": "projects/the-wrong-reflection/photos/reports__visual_proof__08_Isolation_Corridor.png",
+          "bytes": 531228,
+          "sha256": "8c3e0ad80c704c01e3a745a2b5b35fd0dc0f66aa786826926c489c242d00af70",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "reports/visual_proof/15_Mirror_Court.png",
+          "showcase_rel": "projects/the-wrong-reflection/photos/reports__visual_proof__15_Mirror_Court.png",
+          "bytes": 62010,
+          "sha256": "ff7b8303dd9e740e7f27ea79187ac3bc3f5e300be7ce2b2b945be33982b76a1e",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "reports/visual_proof/19_Pause_Settings.png",
+          "showcase_rel": "projects/the-wrong-reflection/photos/reports__visual_proof__19_Pause_Settings.png",
+          "bytes": 105307,
+          "sha256": "35dd9bdf114f37901c5e2c274540bae18bc3fae6b8f9531a9a5b3ba237836549",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "reports/visual_proof/20_Split_Screen_CoOp.png",
+          "showcase_rel": "projects/the-wrong-reflection/photos/reports__visual_proof__20_Split_Screen_CoOp.png",
+          "bytes": 49573,
+          "sha256": "d37cbb331d2eaae5a9fce2006b75d3288f22601bb51087a94a704bd4d4936fd7",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "reports/game_screenshots_and_proof/evidence_01_entry_cinematic.png",
+          "showcase_rel": "projects/the-wrong-reflection/photos/reports__game_screenshots_and_proof__evidence_01_entry_cinematic.png",
+          "bytes": 296268,
+          "sha256": "89a8e398055ef2a93a81bd446db3026934b240054002f9f6a7c1c5acc7eb2145",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "reports/game_screenshots_and_proof/evidence_02_story_event.png",
+          "showcase_rel": "projects/the-wrong-reflection/photos/reports__game_screenshots_and_proof__evidence_02_story_event.png",
+          "bytes": 230478,
+          "sha256": "0f7b1d08d9618798eacd636d4ae334ef7acdd7e690de69c797cae87fdf0d77b3",
+          "ext": ".png"
+        }
+      ],
+      "videos": [],
+      "folder": "projects/the-wrong-reflection"
+    },
+    {
+      "repo": "gloam-and-gear-heart-of-the-last-flame",
+      "name": "Gloam & Gear",
+      "slug": "gloam--gear",
+      "category": "game",
+      "summary": "Godot 3D vertical slice with beta runtime proof screenshots.",
+      "notes": null,
+      "github": "https://github.com/brysonandtiff-ops/gloam-and-gear-heart-of-the-last-flame",
+      "branch": "main",
+      "sha": "dad605aab3baf63025c6ab36492c7f866a1a8c03",
+      "sha_short": "dad605a",
+      "commit_date": "2026-11-19T22:53:14+08:00",
+      "commit_subject": "Merge beta v1 vertical slice: full quest loop, menus, HUD, audio, smoke test (#4)",
+      "proof_status": "HAS_PHOTOS_ONLY",
+      "photo_count": 6,
+      "video_count": 0,
+      "photos": [
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "KICKSTART_BUILD/GODOT_3D_POLISHED_VERTICAL_SLICE/BUILD_EVIDENCE/2026-11-18_beta_slice_runtime_proof/after_01_title.png",
+          "showcase_rel": "projects/gloam--gear/photos/KICKSTART_BUILD__GODOT_3D_POLISHED_VERTICAL_SLICE__BUILD_EVIDENCE__2026-11-18_beta_slice_runtime_proof__after_01_title.png",
+          "bytes": 168654,
+          "sha256": "a6b73a9426fdf1eb09ef339e8e2d28abab40ecaeb3a99beeecce5cba2bb46587",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "KICKSTART_BUILD/GODOT_3D_POLISHED_VERTICAL_SLICE/BUILD_EVIDENCE/2026-11-18_beta_slice_runtime_proof/after_02_hub_start.png",
+          "showcase_rel": "projects/gloam--gear/photos/KICKSTART_BUILD__GODOT_3D_POLISHED_VERTICAL_SLICE__BUILD_EVIDENCE__2026-11-18_beta_slice_runtime_proof__after_02_hub_start.png",
+          "bytes": 222704,
+          "sha256": "d1837253e86a1290b28ce2c1a4355080e984ba2f97740dddc47f5b2b8a8b334e",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "KICKSTART_BUILD/GODOT_3D_POLISHED_VERTICAL_SLICE/BUILD_EVIDENCE/2026-11-18_beta_slice_runtime_proof/after_03_mox_scan_pip.png",
+          "showcase_rel": "projects/gloam--gear/photos/KICKSTART_BUILD__GODOT_3D_POLISHED_VERTICAL_SLICE__BUILD_EVIDENCE__2026-11-18_beta_slice_runtime_proof__after_03_mox_scan_pip.png",
+          "bytes": 236869,
+          "sha256": "941fb377955837743dc49506c95cb489a996088de62484e9a1bd1423cfbf0a68",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "KICKSTART_BUILD/GODOT_3D_POLISHED_VERTICAL_SLICE/BUILD_EVIDENCE/2026-11-18_beta_slice_runtime_proof/after_04_brambleboot.png",
+          "showcase_rel": "projects/gloam--gear/photos/KICKSTART_BUILD__GODOT_3D_POLISHED_VERTICAL_SLICE__BUILD_EVIDENCE__2026-11-18_beta_slice_runtime_proof__after_04_brambleboot.png",
+          "bytes": 271257,
+          "sha256": "43a9ead9eec1a0e9305b2e9b3f4f15717f92d15cec4cfce4986e80898e8df221",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "KICKSTART_BUILD/GODOT_3D_POLISHED_VERTICAL_SLICE/BUILD_EVIDENCE/2026-11-18_beta_slice_runtime_proof/after_05_bloom_gate_puffdrake.png",
+          "showcase_rel": "projects/gloam--gear/photos/KICKSTART_BUILD__GODOT_3D_POLISHED_VERTICAL_SLICE__BUILD_EVIDENCE__2026-11-18_beta_slice_runtime_proof__after_05_bloom_gate_puffdrake.png",
+          "bytes": 285555,
+          "sha256": "3ed60afd772dda2c1bdd5790f69dd0b53f272121392d6e35a71a59f6bd0d85ad",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "KICKSTART_BUILD/GODOT_3D_POLISHED_VERTICAL_SLICE/BUILD_EVIDENCE/2026-11-18_beta_slice_runtime_proof/after_06_restored_complete.png",
+          "showcase_rel": "projects/gloam--gear/photos/KICKSTART_BUILD__GODOT_3D_POLISHED_VERTICAL_SLICE__BUILD_EVIDENCE__2026-11-18_beta_slice_runtime_proof__after_06_restored_complete.png",
+          "bytes": 216173,
+          "sha256": "eeeec2fc45beea4a3a951fce613466476b0301af5ca329a9d08493d9b2209d07",
+          "ext": ".png"
+        }
+      ],
+      "videos": [],
+      "folder": "projects/gloam--gear"
+    },
+    {
+      "repo": "hushkin-rumor-bloom",
+      "name": "Hushkin: Rumor Bloom",
+      "slug": "hushkin-rumor-bloom",
+      "category": "game",
+      "summary": "Storybook / companion game with art-lock and gameplay contact sheets.",
+      "notes": null,
+      "github": "https://github.com/brysonandtiff-ops/hushkin-rumor-bloom",
+      "branch": "master",
+      "sha": "23be7d3a2cc3ba43ff5f3c4444bc6930d7982164",
+      "sha_short": "23be7d3",
+      "commit_date": "2026-09-26T03:49:39+08:00",
+      "commit_subject": "fix(arena): preserve condition group runtime contract",
+      "proof_status": "HAS_PHOTOS_ONLY",
+      "photo_count": 5,
+      "video_count": 0,
+      "photos": [
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "artifacts/lanternlight_village_v6_final.png",
+          "showcase_rel": "projects/hushkin-rumor-bloom/photos/artifacts__lanternlight_village_v6_final.png",
+          "bytes": 939060,
+          "sha256": "bc71ad7c9c406bcaf41dea693bba781f3e98385c9aae0f6f96bfd5fcf791bac3",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "artifacts/gameplay_contact_sheet_debug.png",
+          "showcase_rel": "projects/hushkin-rumor-bloom/photos/artifacts__gameplay_contact_sheet_debug.png",
+          "bytes": 1819896,
+          "sha256": "ab1dd325b936dcf96fd853c58ede1a9f7e4a506ccb12a2b0d8297c46d1b1c79a",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "artifacts/art_lock_character_face_v1.png",
+          "showcase_rel": "projects/hushkin-rumor-bloom/photos/artifacts__art_lock_character_face_v1.png",
+          "bytes": 856865,
+          "sha256": "771bc41590b2850627686f9452e5b745d6439f9c37ce9ef2d3b111f91311d4aa",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "artifacts/gameplay_test_06_arena_shift.png",
+          "showcase_rel": "projects/hushkin-rumor-bloom/photos/artifacts__gameplay_test_06_arena_shift.png",
+          "bytes": 811051,
+          "sha256": "9e8a8baa98aa294a326d7cf99399d73e46ad103deaacc96fd12cc440cc2dce2a",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "assets/original/brand/moonring_stadium_key_art.png",
+          "showcase_rel": "projects/hushkin-rumor-bloom/photos/assets__original__brand__moonring_stadium_key_art.png",
+          "bytes": 4997419,
+          "sha256": "f4ce131b3f231a973cb652e5547252097a8793077a386b3e4ac5125961a6baa6",
+          "ext": ".png"
+        }
+      ],
+      "videos": [],
+      "folder": "projects/hushkin-rumor-bloom"
+    },
+    {
+      "repo": "the_great_green_valley",
+      "name": "The Great Green Valley",
+      "slug": "the-great-green-valley",
+      "category": "game",
+      "summary": "Environment / character visual evidence pack.",
+      "notes": null,
+      "github": "https://github.com/brysonandtiff-ops/the_great_green_valley",
+      "branch": "main",
+      "sha": "b36f2684f5cc53e14fe8715060c96eeebaa08a5d",
+      "sha_short": "b36f268",
+      "commit_date": "2026-10-28T16:55:28+08:00",
+      "commit_subject": "Merge pull request #77 from brysonandtiff-ops/ccr-0fc22947-dy3sct",
+      "proof_status": "HAS_PHOTOS_ONLY",
+      "photo_count": 6,
+      "video_count": 0,
+      "photos": [
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "docs/evidence/environment/ingame_meadow.png",
+          "showcase_rel": "projects/the-great-green-valley/photos/docs__evidence__environment__ingame_meadow.png",
+          "bytes": 456618,
+          "sha256": "f11af107c9df6266e219f85957e16351b1ec1967eeb9e4bbcd74d11ac5b49602",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "docs/evidence/environment/ingame_canyon.png",
+          "showcase_rel": "projects/the-great-green-valley/photos/docs__evidence__environment__ingame_canyon.png",
+          "bytes": 412308,
+          "sha256": "0be07b25a346256a5a1e5a640e301edbf42ec6210fd63b52303fd908184edec5",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "docs/evidence/environment/ingame_trees.png",
+          "showcase_rel": "projects/the-great-green-valley/photos/docs__evidence__environment__ingame_trees.png",
+          "bytes": 586384,
+          "sha256": "cc50479783fee77af5946ca21ffa0ff65eb977db4bdfd4e09f3f7f6de18fc443",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "docs/evidence/environment/canyon_three_quarter.png",
+          "showcase_rel": "projects/the-great-green-valley/photos/docs__evidence__environment__canyon_three_quarter.png",
+          "bytes": 203846,
+          "sha256": "60b739b3c53b4dcab9717b8a921c360c5a5582767db4b4e2d5054014cca1b2fa",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "docs/evidence/characters/cinder_jaw_three_quarter.png",
+          "showcase_rel": "projects/the-great-green-valley/photos/docs__evidence__characters__cinder_jaw_three_quarter.png",
+          "bytes": 184944,
+          "sha256": "264cb001e42c55ac12771c18cace2594f9e2966ad2aeefa22f07574e6c26c7e4",
+          "ext": ".png"
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "art/great_green_valley_moodboard.png",
+          "showcase_rel": "projects/the-great-green-valley/photos/art__great_green_valley_moodboard.png",
+          "bytes": 2546096,
+          "sha256": "2ddb21e62a247f1d0576ba33f139125548b456d83d61c94a4fa888ba6c7a99c9",
+          "ext": ".png"
+        }
+      ],
+      "videos": [],
+      "folder": "projects/the-great-green-valley"
+    },
+    {
+      "repo": "OCEANIS",
+      "name": "OCEANIS",
+      "slug": "oceanis",
+      "category": "game",
+      "summary": "KRAIT Godot ocean game (no committed UI screenshots in this checkout).",
+      "notes": null,
+      "github": "https://github.com/brysonandtiff-ops/OCEANIS",
+      "branch": "main",
+      "sha": "2d7a8590491f9e6c99ba19173dae4c13f0a6e725",
+      "sha_short": "2d7a859",
+      "commit_date": "2026-11-23T02:47:44+00:00",
+      "commit_subject": "Restore 40 original verified OCEANIS GLB blockouts",
+      "proof_status": "HAS_PHOTOS_ONLY",
+      "photo_count": 3,
+      "video_count": 0,
+      "photos": [
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "design-visuals/01-design-home.png",
+          "showcase_rel": "projects/oceanis/design-visuals/01-design-home.png",
+          "bytes": 468393,
+          "sha256": "081d99a9d948bd330fd92d1cdf7e3ae53e3f05038bd45b44e4be6c4efe0a422c",
+          "ext": ".png",
+          "provenance": "DESIGN_HTML_CAPTURE",
+          "note": "No playable Godot UI on main yet. Design home screenshot + SIRE blueprint PNGs for audit context only."
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "design-visuals/10398_blueprint_A.png",
+          "showcase_rel": "projects/oceanis/design-visuals/10398_blueprint_A.png",
+          "bytes": 3365425,
+          "sha256": "8db1bc667090d2d509e058507d12db9a946a08027d512b16e4bfe71fd68a64f5",
+          "ext": ".png",
+          "provenance": "SIRE_BLUEPRINT_HISTORICAL",
+          "note": "From SIRE docs/oceanis/blueprints \u2014 planning artifact, not gameplay UI."
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "design-visuals/10399_blueprint_B.png",
+          "showcase_rel": "projects/oceanis/design-visuals/10399_blueprint_B.png",
+          "bytes": 3402103,
+          "sha256": "a565711481f96e99165d2422628d9a8cc8dfc4e646a606eb53a79e6dc200d1e4",
+          "ext": ".png",
+          "provenance": "SIRE_BLUEPRINT_HISTORICAL",
+          "note": "From SIRE docs/oceanis/blueprints \u2014 planning artifact, not gameplay UI."
+        }
+      ],
+      "videos": [],
+      "folder": "projects/oceanis",
+      "proof_notes": "DESIGN/BLUEPRINT ONLY \u2014 no Godot gameplay UI on main yet"
+    },
+    {
+      "repo": "venomward",
+      "name": "VENOMWARD",
+      "slug": "venomward",
+      "category": "game",
+      "summary": "KRAIT Godot game on sire/build-venomward (no committed UI screenshots).",
+      "notes": null,
+      "github": "https://github.com/brysonandtiff-ops/venomward",
+      "branch": "sire/build-venomward",
+      "sha": "4ec51240d7c6ff513222231f7f1314824013c109",
+      "sha_short": "4ec5124",
+      "commit_date": "2026-11-24T14:26:03+08:00",
+      "commit_subject": "Merge pull request #4 from brysonandtiff-ops/ccr-fbde1fa1-gj1fgw",
+      "proof_status": "HAS_PHOTOS_AND_VIDEOS",
+      "photo_count": 4,
+      "video_count": 1,
+      "photos": [
+        {
+          "status": "COPIED",
+          "kind": "fresh_photo",
+          "source_rel": "fresh-runtime/venomward-real-scene-still.png",
+          "showcase_rel": "projects/venomward/fresh-runtime/venomward-real-scene-still.png",
+          "bytes": 124562,
+          "sha256": "89f0134dbe39d6741b02fe424324f46a8c60b88c274913c2694a27db8f16f147",
+          "ext": ".png",
+          "provenance": "GODOT_ENGINE_WINDOW_CAPTURE",
+          "note": "Official tools/capture_real_godot_video.sh on Godot 4.7.2. Window capture only \u2014 NOT phone/release certified."
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "cross-repo-historical/venom-v16-mobile-390x844.png",
+          "showcase_rel": "projects/venomward/cross-repo-historical/venom-v16-mobile-390x844.png",
+          "bytes": 60024,
+          "sha256": "8569ce9cbde64a3ab4522dc4588f537d080cf8f6bb7965c0ea24323aa08fa19e",
+          "ext": ".png",
+          "provenance": "SIRE_ARTIFACT_HISTORICAL",
+          "note": "Copied from SIRE artifacts/sire-web evidence; historical UI, not exact venomward HEAD certification."
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "cross-repo-historical/venom-v16-desktop-1440x1000.png",
+          "showcase_rel": "projects/venomward/cross-repo-historical/venom-v16-desktop-1440x1000.png",
+          "bytes": 129551,
+          "sha256": "cb255add2e3fb9df69bd572d52b2d5aacfe6b6721f584ad1de6a47a3545d9756",
+          "ext": ".png",
+          "provenance": "SIRE_ARTIFACT_HISTORICAL",
+          "note": "Copied from SIRE artifacts/sire-web evidence; historical UI, not exact venomward HEAD certification."
+        },
+        {
+          "status": "COPIED",
+          "kind": "photo",
+          "source_rel": "cross-repo-historical/venom-v15-desktop.png",
+          "showcase_rel": "projects/venomward/cross-repo-historical/venom-v15-desktop.png",
+          "bytes": 136365,
+          "sha256": "78e4a912373bdf353e0b06dba5f5ea0f825f732df0dbf2defae3ce3bbe139a84",
+          "ext": ".png",
+          "provenance": "SIRE_ARTIFACT_HISTORICAL",
+          "note": "Copied from SIRE artifacts/sire-web evidence; historical UI, not exact venomward HEAD certification."
+        }
+      ],
+      "videos": [
+        {
+          "status": "COPIED",
+          "kind": "fresh_video",
+          "source_rel": "fresh-runtime/venomward-real-scene.mp4",
+          "showcase_rel": "projects/venomward/fresh-runtime/venomward-real-scene.mp4",
+          "bytes": 45238,
+          "sha256": "2a0bd4da40b96f96d6ea74b542ca140c4fa31974f539121b8121e3b23ab8d00a",
+          "ext": ".mp4",
+          "provenance": "GODOT_ENGINE_WINDOW_CAPTURE",
+          "note": "Official tools/capture_real_godot_video.sh on Godot 4.7.2. Window capture only \u2014 NOT phone/release certified."
+        }
+      ],
+      "folder": "projects/venomward"
+    },
+    {
+      "repo": "DOOMBOAT-LAST-RIGHTS",
+      "name": "DOOMBOAT: Last Rights",
+      "slug": "doomboat-last-rights",
+      "category": "game",
+      "summary": "KRAIT Godot game (no committed UI screenshots in this checkout).",
+      "notes": null,
+      "github": "https://github.com/brysonandtiff-ops/DOOMBOAT-LAST-RIGHTS",
+      "branch": "main",
+      "sha": "6251707dc82a8a1d319e6a453aa9298e7fab603c",
+      "sha_short": "6251707",
+      "commit_date": "2026-11-24T14:26:00+08:00",
+      "commit_subject": "Merge pull request #3 from brysonandtiff-ops/ccr-fbde1fa1-gj1fgw",
+      "proof_status": "HAS_PHOTOS_AND_VIDEOS",
+      "photo_count": 1,
+      "video_count": 1,
+      "photos": [
+        {
+          "status": "COPIED",
+          "kind": "fresh_photo",
+          "source_rel": "fresh-runtime/doomboat-real-scene-still.png",
+          "showcase_rel": "projects/doomboat-last-rights/fresh-runtime/doomboat-real-scene-still.png",
+          "bytes": 326419,
+          "sha256": "6a0e8eccc4fa2ab59c6ddb3af6936474331abca71a50f6b981434559be3a20b9",
+          "ext": ".png",
+          "provenance": "GODOT_ENGINE_WINDOW_CAPTURE",
+          "note": "Xvfb + Godot 4.7.2 window grab after engine-gate PASS. Not phone/LAN/audio certified."
+        }
+      ],
+      "videos": [
+        {
+          "status": "COPIED",
+          "kind": "fresh_video",
+          "source_rel": "fresh-runtime/doomboat-real-scene.mp4",
+          "showcase_rel": "projects/doomboat-last-rights/fresh-runtime/doomboat-real-scene.mp4",
+          "bytes": 289567,
+          "sha256": "d8be68f8e148970dd1b17aa4fe8849e8cd094c1dbd2a18b762de5d7beb38250c",
+          "ext": ".mp4",
+          "provenance": "GODOT_ENGINE_WINDOW_CAPTURE",
+          "note": "Xvfb + Godot 4.7.2 window grab after engine-gate PASS. Not phone/LAN/audio certified."
+        }
+      ],
+      "folder": "projects/doomboat-last-rights"
+    }
+  ],
+  "fresh_runtime": {
+    "captured_at_utc": "2026-11-24T10:44:45.052155+00:00",
+    "tool": "Playwright Chromium",
+    "projects": [
+      "omniword",
+      "moonwake",
+      "mimic-mayhem--bad-take",
+      "animesteamos",
+      "aethelgard",
+      "aetheria-hyperstrike-web"
+    ]
+  },
+  "gap_fill": {
+    "captured_at_utc": "2026-11-24T11:18:11.730063+00:00",
+    "filled": [
+      "venomward",
+      "DOOMBOAT-LAST-RIGHTS",
+      "OCEANIS",
+      "PERTHSAVER"
+    ],
+    "still_open": [
+      "aethelgard-unity"
+    ]
+  }
+}
