@@ -10,6 +10,16 @@ I build software products, interactive systems, development tooling, and games, 
 - **Automation & tooling:** Python, PowerShell, developer tooling, build orchestration, verification, and recovery workflows
 - **Games & 3D:** Godot, GDScript, Blender, 2D/3D design and animation, gameplay systems, UI, world building, and performance work
 
+## Visual audit showcase
+
+Browse **[showcase/](showcase/)** for the latest curated UI photos and videos across my software and game repos:
+
+- [`showcase/AUDIT.md`](showcase/AUDIT.md) — status board (HEAD SHA, proof class, gaps)
+- [`showcase/gallery.html`](showcase/gallery.html) — local photo/video gallery
+- [`showcase/manifest.json`](showcase/manifest.json) — machine-readable index with per-file SHA-256
+
+Each project folder records exact checkout SHA, source media path, and whether the media is historical evidence or a fresh runtime capture. Gaps are listed honestly (`NO_VISUAL_PROOF`) instead of invented.
+
 ## Selected public work
 
 ### [Vishvakarma.OS](https://github.com/brysonandtiff-ops/vishvakarma-os)
